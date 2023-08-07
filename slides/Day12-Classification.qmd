@@ -1,0 +1,44 @@
+---
+title: "Day Twelve: Classification"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# What were some of the takeaways from Thursday?
+
+---
+
+## Identify a classification system that structures some aspect of your "work". How are concepts organized in this classification system?
+
+---
+
+## Turn to your neighbor and discuss:
+
+- What is the master narrative running through this classification system?
+
+

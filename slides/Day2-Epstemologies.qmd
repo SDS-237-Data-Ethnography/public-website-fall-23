@@ -1,0 +1,103 @@
+---
+title: "Day Two: Epistemologies of Big Data"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+# Pull out a piece of paper, and write three things you know to be true.
+
+---
+
+## Turn to your neighbor and discuss:
+
+- **What does it mean** that you know this to be true? What counts as knowing?
+- **How/through what means** do you know this to be true? 
+- What are the **limits** of your knowledge on this?
+
+---
+
+## Epistemology
+
+- Greek words
+  - Episteme": knowledge; understanding
+  - "Logos": reason; argument
+- Philosophical study of the nature and limits of knowledge
+  - What conditions must be met for us to say that we "know" something to be true?
+  - How do a group of people come to acquire knowledge?
+  
+---
+
+## What counts as knowledge?
+
+- Historically knowledge defined as "justified true belief"
+- Does knowledge exist independently of a knowing mind?
+
+  - **Positivists** claim yes, there is objective truth independent of a knower
+  - **Interpretivists** and **constructivists** claim no, truths are subjective or tied to a knowing mind
+  
+---
+
+## How do we acquire knowledge?
+
+- **Empiricists** claim that knowledge emerges from direct observation
+- **Rationalists** claim that knowledge emerges from logic and reason
+
+- ...and then there’s testimony, memory, intuition, feeling
+
+---
+
+## Reading Discussion
+
+-   Facilitator: Introduces the question. Keeps time. Points out when the group has gone on a tangent. Encourages everyone to share thoughts. 
+-   Connector: Draws connections across peer contributions. Also connects to current events or "real world" examples.
+-   Summarizer: Keeps track (via notes) of the most important points made in the conversation. At a summary break and at the end of discussion, recites a summary of *three* key points made so far. 
+-   Devil's Advocate: Offers counter-arguments and polite critiques to keep the conversation. 
+-   Reporter: Reports the key points from the conversation out the the class at the conclusion of the exercise.
+
+---
+
+## Feminist Epistemologies
+
+- All knowledge is **embodied**
+  - Contrast with disembodied knowledge - i.e. not tied to a specific body
+- Bodies are situated in certain social positions and have a finite point of view (Haraway 1991)
+  - Critique of the "unmarked body," the "God trick," or the "view from nowhere"
+- Knowledge is tied to particular standpoints 
+  - Our experiences, what we’ve read, our education, our social positions, and what our bodies enable us to do, see, hear, taste, touch, and smell
+  - Factors are innumerable and unique to every person
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/78/Traquair_House_Maze.jpg)
+marsroverdriver, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+
+
+---
+
+
+
+
+ 
+

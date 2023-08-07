@@ -1,0 +1,137 @@
+---
+title: "Day Sixteen: Rituals of Data Collection"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+## Jot down some ideas of what this means to you: 
+
+> This chapter makes one basic point: the work of producing, preserving, and sharing data reshapes the organizational, technological, and cultural worlds around them. - Jackson and Ribes, 2013
+
+---
+
+## Reminders
+
+- Now is the time to start thinking about MP 2!
+- You must submit your MP 1 on Moodle by 5 PM tomorrow if you wish to participate in peer review. 
+
+---
+
+# What did we learn on Tuesday about the why's and how's of participant observation?
+
+
+---
+
+# Rituals Activity
+
+---
+
+## Discussion
+
+- What did our ethnographers notice about the data collection? What questions did our data collectors have about how to measure the height of a student?
+
+- What were our shared goals and beliefs about what would make "good data"?
+
+- How did the rituals we designed shape the data? How did we organize ourselves to create pathways for the data to be comparable? 
+
+
+---
+
+## Reading Review: What are rituals?
+
+- Stylized repetitive activities engaged in different cultural contexts
+- May involve words, gestures, movements, exchanges
+- Can sometimes be taken-for-granted and other times front and center
+- **Mark the shared beliefs of a social group and membership in a community**
+
+---
+
+# What are some examples of rituals in communities that you identify with?
+
+---
+
+## Turn to a neighbor and discuss:
+
+- How might this ritual be taken for granted by different social groups?
+- What are some of the shared beliefs that shape the rationale for engaging this ritual?
+
+---
+
+
+# What were the shared beliefs **about data** discussed in Tuesday's reading? What did data collectors care about?
+
+---
+
+## North American Bird Breeding Survey
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Introduced by Chan Robbins in 1966 as a result of rising concerns about the effects of DDT on bird populations
+- Aims to measure trends in bird populations over time
+- Not a total population count
+- Results in a longitudinal dataset of bird species counts at different stops along standardized routes
+
+:::
+
+::: {.column width="50%"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Orop%C3%A9ndola_enmascarada_%28Oriolus_larvatus%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_44.jpg/220px-Orop%C3%A9ndola_enmascarada_%28Oriolus_larvatus%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_44.jpg)
+
+> Diego Delso
+
+:::
+:::
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QeUbwr3-DCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Take-aways
+
+- Shared aims of making data comparable, clean, and well-cared for are held by data collectors
+- Environmental forces constantly threaten these aims
+- Data collectors organize their social worlds towards these aims (e.g. establishing rituals)
+- This shapes the context of recorded data
+
+--- 
+
+> This chapter makes one basic point: the work of producing, preserving, and sharing data reshapes the organizational, technological, and cultural worlds around them. - Jackson and Ribes, 2013
+
+
+
+
+
+
+  
+

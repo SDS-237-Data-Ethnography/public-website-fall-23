@@ -1,0 +1,258 @@
+---
+title: "Day Seventeen: Institutional Incentives"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+## Reminders
+
+- If you have not started on MP2 yet, you are late in doing so. 
+- There is reading from *Cooking Data* due this Thursday. 
+
+---
+
+# What were some takeaways from Thursday's class?
+
+---
+
+## Consider a time that you would be rewarded or penalized based on your performance towards a numeric metric. 
+
+---
+
+## Turn to a neighbor and discuss:
+
+- What kinds of decisions did you have to make about how to behave in relation to this metric?
+- How might people "game" this metric?
+
+---
+
+## NYC Stop, Question, and Frisk
+
+::: columns
+::: {.column width="60%"}
+-   Permits officers to stop individuals when "reasonable suspicion" of crime committed
+
+-   2011 District Court Floyd and Ourlicht vs. City of New York
+
+    -   Presents data to show degree of racial profiling in practice
+
+    -   Aggregated from series of UF-250 forms officers fill out
+:::
+
+::: {.column width="40%"}
+![](https://live.staticflickr.com/8151/7391422028_750380920c_c.jpg){width="300"}
+
+^j-No, Flickr^
+:::
+:::
+
+::: notes
+In 2011, New York City's controversial stop, question, and frisk policy -- which permits officers to stop and question an individual when they have "reasonable suspicion" but not "probable cause" that the individual committed a crime -- went before the US District Court. David Floyd and David Ourlicht argued that the NYPD had stopped them without reasonable suspicion, and the resulting high-profile case centered around issues of racial profiling in NYC policing. Much of the case against stop and frisk was built from data documenting racial breakdowns of the individuals stopped each year, along with the reason for the stop and the results of the stop. This data was aggregated from a series of forms (known as UF-250s) that officers are required to fill out and report following a stop. These forms collectively showed that 85% of those stopped were Black and Latino despite these sub-groups comprising just over half of the city's population.
+:::
+
+---
+
+## Hon. Scheindlin's Ruling
+
+::: columns
+::: {.column width="30%"}
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Shira_A._Scheindlin.jpg?20130827072514)
+
+^Joel Spector ⓒ2013^
+:::
+
+::: {.column width="70%"}
+> Because it is impossible to *individually* analyze each of those stops, plaintiffs' case was based on the imperfect information contained in the NYPD's database of forms ('UF-250s') that officers are required to prepare after each stop.
+:::
+:::
+
+::: notes
+Ultimately Judge Shira Schiedlen ruled that stop and frisk was being carried out in an unconstitutional way and ordered a scaling back of the practice. I want to start off the presentation by reciting an (admittedly) long quote from Sheindlen's ruling that I think captures the key issues of this presentation:
+
+Because it is impossible to individually analyze each of those stops, plaintiffs' case was based on the imperfect information contained in the NYPD's database of forms ('UF-250s') that officers are required to prepare after each stop. The central flaws in this database all skew toward underestimating the number of unconstitutional stops that occur: the database is incomplete, in that officers do not prepare a UF-250 for every stop they make; it is one-sided, in that the UF250 only records the officer's version of the story; the UF-250 permits the officer to merely check a series of boxes, rather than requiring the officer to explain the basis for her suspicion; and many of the boxes on the form are inherently subjective and vague (such as 'furtive movements'). Nonetheless, the analysis of the UF-250 database reveals that at least 200,000 stops were made without reasonable suspicion.
+:::
+
+---
+
+## Juking the Stats
+
+::: columns
+::: {.column width="50%"}
+-   CompStat: crime reduction strategy instituted in NYC in the 1990s
+
+-   Used crime and deployment data as performance metrics
+
+-   Institutionally incentivized data manipulation
+:::
+
+::: {.column width="50%"}
+![](https://live.staticflickr.com/6193/6126325832_f166a9b9ff_c.jpg)
+
+^pardonmeforasking, Flickr^
+:::
+:::
+
+::: notes
+The "imperfections" in this dataset have a history. This database came into existence alongside CompStat- a crime reduction strategy implemented in NYC in the 1990s. CompStat required precincts to produce weekly statistics regarding crime rates, officer deployments, stops, and arrests in their communities in order to generate evidence of policing effectiveness. The idea was to hold officers accountable through "timely and accurate intelligence" and "relentless follow-up and assessment." However, with certain consequences tied to failures to demonstrate reductions in crime, the policies institutionally incentivized data manipulation - an issue colloquially referred to as "juking the stats." Whistleblowing officers have presented audio recordings of their commanders demanding that they conduct more stops to meet quotas, and deceptively classifying crimes.
+:::
+
+---
+
+## Disclosure Datasets
+
+::: columns
+::: {.column width="50%"}
+> Tabular datasets that aggregate information produced and reported by the same institutions they are meant to hold accountable.
+:::
+
+::: {.column width="50%"}
+-   Self-disclosure concerns:
+
+    -   "Juking the stats" (policing)
+
+    -   "Cooking the books" (campaign finance)
+
+    -   "Phantom reductions" (environmental monitoring)
+:::
+:::
+
+::: notes
+Notably, this idea of "juking the stats" has equivalent terms in other domains involving data produced by self-disclosure. For instance, we talk of political candidates "cooking the books" when it comes to disclosing data about campaign contributions and expenditures, and as I will turn to soon, environmental activists refer to industries reporting "phantom reductions" when it comes to disclosing information about their polluting activities. These are all examples of data quality issues regarding "disclosure datasets" - tabular datasets produced in accordance with laws requiring various kinds of disclosure. The most significant defining feature of disclosure datasets is that they aggregate information produced and reported by the same institutions they are meant to hold accountable. Further, the values reported in disclosure datasets can lead to adverse actions - either formal or informal -- taken against the reporting institutions. Combined, these issues institutionally incentivize misreporting and deceptive accounting practices.
+:::
+
+---
+
+## Classes of Accountability Data
+
+::: columns
+::: {.column width="33%"}
+#### Disclosure Data {.column width="33%"}
+
+![](http://blog.danwin.com/files/images/uf250-2011-excerpt.png)
+
+^Dan Nguyen^
+:::
+
+::: {.column width="33%"}
+#### Evaluative Data
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Employee_Performance_Evaluation_Form.jpg/1599px-Employee_Performance_Evaluation_Form.jpg?20220411141223) ^Digits.co.uk Images^
+:::
+
+::: {.column width="33%"}
+#### Monitoring Data
+
+![](https://live.staticflickr.com/65535/50981967846_2335fd0062_5k.jpg)
+
+^Ivan Radic, on Flickr^
+:::
+:::
+
+::: notes
+Disclosure data is just one class of data used to hold people and institutions accountable. We might, for instance, contrast disclosure data with evaluative data -- where people and institutions are not self-assessed, but instead assessed by an external evaluator. Examples include Yelp reviews of businesses and student evaluations of teaching effectiveness. We might also contrast disclosure data with surveillance data -- where real-time technological systems track activities to hold folks accountable. Examples of such data include police body cameras and consumer credit tracking. Karen Levy's work on electronic monitoring systems in the US trucking industry provides a compelling narrative on the social impact of surveillance data. In recognition that each of these datasets emerge from situated and delimited perspectives, we can point to concerns regarding data quality and bias in all of these classes of accountability data.
+
+In what follows, I will focus on three kinds of data quality concerns that arise based on the institutional configurations that underpin the production of records for disclosure datasets:
+:::
+
+---
+
+## False Reporting
+
+::: columns
+::: {.column width="30%"}
+-   Lying or misreporting data
+-   Auditing can be challenging
+:::
+
+::: {.column width="70%"}
+![](img/hmda.png) ^Sample HMDA Data Collection Form^
+:::
+:::
+
+::: notes
+False reporting involves deliberate efforts to falsify records; it's flat out lying. While institutions that aggregate disclosure reports into a dataset often attempt to curb false reporting through auditing efforts, small scale instances of false reporting can be inordinately difficult to detect given that the data systems are designed to tell the story from the perspective of the reporters.
+
+For example, in order to ensure that financial institutions are in compliance with fair lending laws in the U.S. (such as the Equal Credit Opportunity Act and the Fair Housing Act), lenders are required to collect and report data on an applicant's ethnicity, race, gender, and income when they apply for a mortgage. When reporting data relating to race, ethnicity, and gender, lenders are legally required to submit the information that applicants self-report when filling out a loan application to the Consumer Financial Protection Bureau (CFPB). However, in cases where an applicant elects not to provide their demographic data, lenders are required to record race, ethnicity, and gender based on visual observation of the applicant or the applicant's surname. In one of the most notable cases of intentional HMDA misreporting, a CFPB investigation found that, for over three years, loan officers at Freedom Mortgage (one of the top ten lending institutions in the U.S.) were instructed to list "non-Hispanic White" as the race and ethnicity for every applicant that elected not to provide demographic data.
+
+Similarly one of the most novel disclosure datasets my lab has been looking at is called Open Payments. To monitor for potential medical conflicts of interest, medical drug and device companies are required to disclose payments and other transfers of value made to physicians and teaching hospitals. This is mandated by the passing of the Physician Payments Sunshine Act (2010). Until recently, there has been little enforcement of the Sunshine Act, so cases of misreporting or failures to report have gone largely unrecognized. ...but in 2020, the first settlement for violations to the Sunshine Act was announced. In efforts to get a South Dakota neurosurgeon to adopt their infusion pumps, Medtronic agreed to sponsor more than 100 events at a restaurant the neurosurgeon owned. Medtronic agreed to pay \$9.2 million to resolve allegations for failure to report.
+
+In terms of data quality, false reporting calls into question the accuracy and validity of the data.
+:::
+
+---
+
+## Deceptive Accounting
+
+::: columns
+::: {.column width="65%"}
+-   Not technically false but deliberately misleading
+-   Takes advantage of ambiguities in standards or laws
+-   Often involves "creative" approaches to measurement or classification
+:::
+
+::: {.column width="35%"}
+![](https://cdn.pixabay.com/photo/2016/11/08/22/35/pollution-1809580_1280.jpg)
+:::
+:::
+
+::: notes
+We can trace other cases of reporting that result in information that is not technically false, but deliberately misleading. For instance, institutions might take advantage of loopholes in reporting standards or leverage vagueness in the reporting requirements to cast their activities in a more positive light.
+
+An example of this comes from the environmental health domain. The EPA's Emergency Planning and Community Right to Know Act (EPCRA) of 1986 established the Toxic Release Inventory as a mechanism to monitor and inform the public of toxic emissions released in their communities. Every year, certain U.S. industrial facilities are required to report to the EPA the amounts of certain chemical on-site and off-site releases.
+
+Notably, while this Act mandates reporting of emissions, it does not mandate monitoring of emissions. While other environmental regulations do set certain monitoring standards for specific TRI chemicals and pollution activities, for all other chemicals and activities, facilities are required to report based on a "reasonable estimate" of releases and other waste management quantities. Because the data is self-reported, this provides a lot of flexibility to facilities to determine how they go about measuring emissions. Studies have shown that year-to-year changes in emissions at large facilities often have more to do with changes in estimation methods and interpretations of the law, rather than actual reductions in emissions. These are often called "phantom reductions" - where emissions just disappear from the books without indication of how the facility actually cleaned up their act.
+
+In our research into disclosure datasets, my lab has identified a number of other examples of deceptive accounting. For instance, when reporting campaign spending, candidates will sometimes hide large payments by submitting them to consulting firms that then disburse the payments to other organizations. Historically, candidates did not have to disclose the payments' ultimate recipients. ...and the concept of "juking the stats" in policing is a direct example of this deceptive accounting practice, with officers learning to play the CompStat numbers game.
+
+In terms of data quality, deceptive accounting calls into question the representativeness of the data - or in other words, the degree to which it represents what we think it represents.
+:::
+
+---
+
+## Discursive Risk of Regulatory Burden
+
+-   Scope of dataset determined by reporting thresholds
+-   Stakeholders have advocated for strengthening or loosening thresholds in line with certain political commitments
+-   "Regulatory burden" discourse has been powerful tool for loosening reporting requirements
+
+::: notes
+Finally, the information that ultimately appears in a disclosure dataset is often shaped by a series of legal standards regarding who has to report and when they have to report. These standards are not neutral, and tend to evolve as stakeholders with certain political commitments towards transparency and institutional accountability call for amendments. Certain stakeholders advocate on behalf of stricter requirements and more data reporting in efforts to secure transparency and accountability, whereas other stakeholders advocate on behalf of loosening the requirements. Notably, one of the most powerful weapons against strengthening disclosure dataset programs has been discourse around "regulatory burden". Businesses cite the cost and lack of feasibility of filling out paperwork when advocating against data collection. For instance, under the George W. Bush Administration, the TRI "Burden Reduction Rule" significantly raised the threshold regarding how much pollution a facility needed to emit before reporting requirements kicked in. Just recently, amendments to HMDA raised the threshold regarding the volume of loans a bank needs a originate for reporting requirements to kick in. The pressures Covid-19 had placed on banks was cited as a reason for this change. ... and regulatory burden discourse has been effectively leveraged to keep the US's National Use of Force database -- where police officers disclose when they use force against citizens -- a voluntary data program.
+
+When regulatory burden discourse is successful, fewer institutions are required to report on fewer activities, diminishing what is tracked in the data. Thresholds tend to fluctuate in line with political changeover. For instance, the stringency of TRI reporting often correlates with the political leanings of presidential administrations. This has meant that the definitions underpinning disclosure datasets are quite malleable - subject to change in conjunction with different modes of social advocacy. This malleability is a double-edged sword for many community groups calling for increased accountability. In one sense, it ensures that disclosure programs can continuously be strengthened. However, changing reporting standards makes it difficult to perform year-to-year comparisons of the data. ...which is often needed to measure whether institutions are "cleaning up" their acts.
+
+In terms of data quality, this discursive risk calls into question the scope and comprehensiveness of the data.
+:::
+
+---
+
+# Who gets to self-disclose?
+
+---

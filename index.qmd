@@ -1,0 +1,215 @@
+---
+title: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+date: "Last updated on `r Sys.Date()`"
+---
+
+# Syllabus
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+library(emo)
+library(bsplus)
+library(htmltools)
+```
+
+::: float_image_right
+```{r, out.width = "200px", fig.cap='Course logo designed by Zoe Scheffler, Fall \'21'}
+knitr::include_graphics("img/sds237logo.png")
+```
+
+:::
+
+Without rich documentation, quantitative data can strip away critical context needed to interpret values responsibly. This course introduces students to the theory and practice of data ethnography, demonstrating how qualitative data collection and analysis can be brought to bear on the study of data settings and artifacts. Through experiential exercises, students will learn techniques in field-note writing, participant observation, in-depth interviewing, documentary analysis, and archival research and how they may be used to contextualize the cultural underpinnings of datasets. Students will learn how to visualize datasets in ways that foreground their socio-political provenance in R. Students will also learn how ethnographic methods can be leveraged to improve data documentation and communication. The course will introduce debates regarding the politics of techno-scientific fieldwork. Upon completion of this course, you should be able to:
+
+1. Recognize, interpret, and communicate the cultural underpinnings of data resources, infrastructures, and practices
+2. Define and engage principal methods of ethnography and communicate when and how they may be used in the study of data
+3. Strategically apply relevant ethnographic methods to the study of a data setting or artifact
+4. Produce data documentation and visualizations that account for the cultural contexts of data production, categorization, measurement, and use
+
+Classes will be held on Tuesdays and Thursdays from 9:25 PM to 10:40 PM. 
+
+## Course Instructor
+
+::: float_image_right
+```{r}
+#| label: Lindsay Poirier
+#| fig-cap: Lindsay Poirier, she/her/hers.
+#| out.width: "200px"
+knitr::include_graphics("https://www.smith.edu/sites/default/files/styles/img-faculty-detail/public/media/Faculty/Lindsay-Poirier.jpg?itok=e_p62zj6")
+```
+:::
+
+I am a cultural anthropologist that studies how civic data gets produced, how communities think about and interface with data, and how data infrastructure can be designed more equitably. My Ph.D. is in an interdisciplinary discipline called Science and Technology Studies - a field that studies the intricate ways science, technology, culture, and politics all co-constitute each other. I work on a number of collaborative research projects that leverage public data to deepen understanding of social and environmental inequities in the US, while also qualitatively studying the politics behind data gaps and inconsistencies. As an instructor, I prioritize active learning and often structure courses as flipped classrooms. You can expect in-class time to predominantly involve group activities and live problem-solving exercises.
+
+## Pedagogical Partner
+
+::: float_image_right
+```{r}
+#| label: Rose Evard
+#| fig-cap: Rose Evard, she/her
+#| out.width: "200px"
+knitr::include_graphics("img/Evard_Sum_2022.jpg")
+```
+:::
+
+Rose Evard (she/her) is a ’23 Biology and Statistics & Data Science double major who took SDS 237 last fall.  She’s passionate about bringing data science principles and strategies into her biology research.  This is her second semester as a Pedagogical Partner for SDS 237.  Rose will participate in class discussions, provide guidance for approaching assignments, and is available for technical assistance.
+
+### Getting in Touch
+
+::: panel-tabset
+#### Slack
+
+I can best support students in this course when I can readily keep tabs on our course-related communication. Because of this, I ask that you please don't email me regarding course-related questions or issues. The best way to get in touch with me is via our course Slack. If you have course-related questions, I encourage you to ask them in the `#sds-237-questions` channel. When discretion is needed, feel free to DM. Please reserve more formal concerns like grades or accommodation requests for an in-person (or in-person virtual) conversation.
+
+*During the week, I will try my best to answer all Slack messages within 24 hours of receiving them. Please note that to maintain my own work-life balance, I often don't answer Slack messages late in the evenings or on the weekends. It's important that you plan when you start your assignments accordingly.*
+
+#### Meeting with Me
+
+Meeting with me outside of class is a great opportunity for us to chat about what you're learning in the course, clarify expectations on assignments, and review work in progress. I also love when students drop in to office hours to request book recommendations, discuss career or research paths, or just to say hi! 
+
+There are two ways to meet with me. If you would like to have a one-on-one private conversation, I ask that you schedule an appointment with me via the [booking form on Moodle](https://moodle.smith.edu/mod/url/view.php?id=996336). For support on class topics, you may drop-in during my regularly scheduled office hours.
+
+-   Monday, 11-12, Sabin-Reed 331
+-   Tuesday, 11-12, Sabin-Reed 331
+-   Thursday, 11-12, Sabin-Reed 331
+
+:::
+
+## Course Texts
+
+This semester we will be reading Crystal Biruk's [**Cooking Data: Culture and Politics in an African Research World**](https://www.dukeupress.edu/cooking-data). The book should be available at the Smith bookstore. I will make all other course readings available on Perusall, which can be accessed through our course Moodle page. 
+
+## Assessment
+
+This course will be graded via a [grading contract](grading_contract.html).
+
+::: callout-tip
+## Jacobson Center
+
+Smith's [Jacobson Center](https://www.smith.edu/academics/jacobson-center) asserts that *all* students can improve their communication and learning skills. I encourage all students to take advantage of their writing support services, workshops, and tutors. 
+:::
+
+## Policies
+
+::: panel-tabset
+### Preparation
+
+This is a 4-credit course with 3 hours per week of in-classroom instructions. Smith expects students to devote 9 out-of-class hours per week to 4-credit classes. I have designed the course assignments and selected the course readings with this target in mind.
+
+### Attendance
+
+Attending class is not only important for your learning but also an act of community. Attendance is expected in this course. Many course assignments will be completed in-class. That said, you do not need to inform me when you will be absent. If you are sick, please stay home. If you must miss a class entirely, you should contact a peer to discuss what was missed. Please note that the [SDS Program](https://www.smith.edu/academics/statistics) has adopted a shared policy regarding in-person attendance this semester:
+
+> In keeping with Smith’s core identity and mission as an in-person, residential college, SDS affirms College policy (as per the Provost and Dean of the College) that students will attend class in person. SDS courses will not provide options for remote attendance. Students who have been determined to require a remote attendance accommodation by the Office of Disability Services will be the only exceptions to this policy. As with any other kind of ADA accommodations, please notify your instructor during the first week of classes to discuss how we can meet your accommodations. 
+
+### Extensions
+
+I understand that you will sometimes need to prioritize other things over meeting assignment deadlines (e.g. your health, wellness, families, communities, jobs, other coursework). However, there are a number of reasons that I find enforcing deadlines to be supportive of student learning in this course:
+
+1. First, one of the key aims of assignments in this course is to support you in learning to become more perceptive to data environments surrounding you. Because of this I've deliberately spread course assignments out over the semester in order to help you gain practice in consistently paying attention to these environments. This critical mode of thinking can't be cultivated effectively if the work is being crammed into later parts of the semester. 
+2. Second, because this course emphasizes student growth over achievement, I also want to ensure that I can provide feedback on your writing in time for you to incorporate it into future assignments. 
+
+There is a 24-hour grace period on all written assignments. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=996325) on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted. 
+  
+Note that this policy does not apply to reading assignments/Perusall annotations. *Reading assignments/Perusall annotations need to be completed by the due date for credit.*
+
+### Academic Honesty
+
+> Smith College expects all students to be honest and committed to the principles of academic and intellectual integrity in their preparation and submission of course work and examinations. Students and faculty at Smith are part of an academic community defined by its commitment to scholarship, which depends on scrupulous and attentive acknowledgement of all sources of information, and honest and respectful use of college resources.
+Any cases of dishonesty or plagiarism will be reported to the Academic Honor Board. Examples of dishonesty or plagiarism include:
+
+-   Submitting work completed by another student as your own.
+-   Copying and pasting words from sources without quoting and citing the author.
+-   Paraphrasing material from another source without citing the author.
+-   Failing to cite your sources correctly.
+-   Falsifying or misrepresenting information in submitted work.
+-   Paying another student or service to complete assignments for you.
+-   Submitting work generated by artificially intelligent tools such as chatGPT
+
+### Participation
+
+Active participation in this course is generally expected and encouraged. That said, we all have off-days - be it from illness, sadness, heartbreak, or exhaustion. I too will have off-days where my words just don't seem to cohere, or my brain will feel jumbled. Because of this, I've provided a number of ways to demonstrate engagement throughout the semester.
+
+### Readings
+
+I have put a lot of thought into the assigned readings for this course - aiming to select pieces that are relevant, engaging, challenging, accessible, and represent a diverse set of voices. Our classroom discussions will be much richer, more meaningful, and fun when all students come to class having completed and annotated assigned course readings. While I know that reading may seem like a low priority when you have impending assignments that you need to physically hand-in, I encourage you not to wait until the last minute to complete course readings. You will get the most out of the content if you give yourself time to digest and reflect on it. 
+
+If you are struggling to keep up with the readings, please reach out to me. I'm more than happy to talk through effective reading strategies and to provide more guidance on what I'd like you to get out of a specific piece.
+:::
+
+## Community
+
+::: panel-tabset
+### Code of Conduct
+
+As the instructor for this course, I am committed to making participation in this course a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion. Examples of unacceptable behavior by participants in this course include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
+
+As the instructor I have the right and responsibility to point out and stop behavior that is not aligned to this Code of Conduct. Participants who do not follow the Code of Conduct may be reprimanded for such behavior. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the instructor.
+
+All students and the instructor are expected to adhere to this Code of Conduct in all settings for this course: seminars, office hours, and over Slack.
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.0.0, available [here](https://www.contributor-covenant.org/version/1/0/0/code-of-conduct/).
+
+### Principles of Community
+
+I hope that we can foster a collaborative and caring environment in this classroom: one that celebrates successes, respects individual strengths and weaknesses, demonstrates compassion for each other's struggles, and affirms diverse identities. Here are some ideas that I have for creating this environment in our course:
+
+-   Check-in with colleagues before starting collaborative work. "What three words describe how you're feeling?" "Name one challenge and one success from this week." "What are you doing for self-care right now?" Thank each other for sharing where they're at.
+-   Consider when to step up and when to step back in class discussions, creating space for others to contribute. Listening is just as important to community-building as speaking.
+-   Acknowledge that there is much we don't know about how our colleagues experience the world. ...but don't ask colleagues to speak on behalf of a social group you perceive them to be a part of.
+-   Cheer on colleagues as they give presentations or try something out for the first time.
+-   Ask questions often in our `#sds-237-questions` channel. Help each other out by answering questions when you can.
+-   Mistakes happen. I will certainly make mistakes in class. Admit mistakes, and then move on.
+
+### Pronouns
+
+Using the proper pronouns for our students is foundational to a safe, respectful classroom environment that creates a culture of trust. For information on pronouns and usage, please see the Office of Equity and Inclusion link here: [Pronouns](https://www.smith.edu/about-smith/equity-inclusion/gender-identity/pronouns)
+:::
+
+## Support
+
+::: panel-tabset
+### Accommodations
+
+It is my goal for everyone to succeed in this course. If you have personal circumstances that may impact your experience of our classroom, I encourage you to contact Office of Disability Services in College Hall 104 or at [ods\@smith.edu](mailto:ods@smith.edu). The Office will generate a letter that indicates to me what kind of support you need and how I can make your classroom experience more accommodating. Once you have this letter, you are welcome to visit my office hours or email me to discuss ideas about how we can tailor the course accordingly. While you can request accommodations at any time, the sooner we start this conversation, the better. If you have concerns about the course that are not addressed through ODS, please contact me. At no point will I ask you to divulge details about your personal circumstances to me.
+
+### Student Well-being
+
+College life is stressful, and life outside of college can be overwhelming. It is my position that attending to your physical and mental health and well-being should be a top priority. I will remind you of this often throughout the semester. I encourage you to schedule a time to talk with me if you are struggling with this course. If you, or anyone you know, is experiencing distress, there are numerous campus resources that can provide support via the [Schacht Center](https://www.smith.edu/student-life/health-wellness). I can point you to these resources at any time throughout the semester.
+
+### Trigger Warnings
+
+A trigger is a topic or image that can precipitate an intense emotional response. When common triggering topics are to be covered in this course, I will do my best to provide a trigger warning in advance of the discussion. However, I can't always anticipate triggers. With this in mind I've set up an anonymous form, available on Moodle, where you can indicate topics for which you would like me to provide a warning.
+:::
+
+## Infrastructure
+
+::: panel-tabset
+
+### Moodle
+
+Grades, forms, and handouts will be available on the course Moodle.
+
+### Perusall
+
+All course readings and recorded lectures will be available on Perusall. You can access Perusall via our course Moodle page.
+
+### Slack
+
+-   `#general`: Course announcements (only I can post)
+-   `#sds-237-discussions`: Share news articles and relevant opportunities
+-   `#sds-237-questions`: Ask and answer questions about our course
+-   You can also create private Slack channels with your project group members.
+
+### GitHub
+
+I will be using GitHub Classroom to distribute several course assignments, and you will submit assignments by pushing changes to template documents to a private GitHub repository. I will provide guidance on how to do this early in the semester.
+:::
+
+::: callout-note
+## RStudio/RStudio Server
+
+This class will use the R statistical software package. In the first week of the course, I will help you install and configure R and RStudio. If you are using a laptop, you will install both on that computer. If you are using a Chromebook or Tablet, an account will be created for you on the [Smith College RStudio Server](http://rstudio.smith.edu) so that you can access a cloud-based version of RStudio. You should let me know in the first week of the course if you are using a Chromebook or tablet.
+:::

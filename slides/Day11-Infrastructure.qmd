@@ -1,0 +1,67 @@
+---
+title: "Day Eleven: Ethnographies of Infrastructure"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+## Identify something that meets Star's definition of an infrastructure. Jot down some ideas about how/when this infrastructure has broken down.
+
+---
+
+## Turn to your neighbor and discuss:
+
+- How often do you think about this infrastructure? Did you notice it pre-breakdown?
+- Who has a say in the design of this infrastructure, and who is excluded?
+
+---
+
+# Why does Star consider infrastructure *relational*?
+
+---
+
+## Star's Definition of Infrastructure
+
+- Embeddedness: Sunk into other socio-technical structures
+- Transparency: Does not need to continuously be reassembled
+- Reach or Scope: Connects more than one site
+- Learned as part of membership: Use naturalized through communities of practice
+- Embodiment of standards: Component parts can connect through standardized conventions
+- Built on an installed base: Wrestles with the logics of its underlying infrastructures
+- Visible upon breakdown: Often taken for granted until breaking
+
+---
+
+# Select a favorite dataset. Brainstorm a long list of infrastructures that support that dataset. 
+
+---
+
+# Select one infratucture? How relational? How does it meet the other criteria of infrastructure?
+
+

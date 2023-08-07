@@ -1,0 +1,128 @@
+---
+title: "Day Fifteen: Participant Observation"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+## Reminders
+
+- Fieldnote 3 due Thursday
+- MP 2 due April 11
+- Now is the time to start thinking about an interview
+
+
+---
+
+## Think about a data collection practice that you are acquainted with. Identify one specific thing that people try to *always* do when collecting that data. 
+
+
+---
+
+## Turn to your neighbor and discuss:
+
+- Why do people try to do this?
+- What meaning does it have for the data?
+- How does it shape the environments/social worlds for the people that engage in this "ritual"?
+
+---
+
+## What is participant observation?
+
+- An ethnographic method that involves embedding oneself in a community's day-to-day activities
+- Ethnographer observes how people behave and interact through participation
+- Ethnographer takes written notes on what they observe which are later elaborated
+
+---
+
+# Reflection Question: Is an participant observer an "insider"?
+
+---
+
+# How does participant observation enrich interviewing and vice versa?
+
+---
+
+## When do ethnographers do participant observation?
+
+- To figure out what kinds of interview questions to ask
+- To place checks on what people say during interviews
+- To gather details about the physical and social environments in which individuals engage
+- To deepen the ethnographer's understanding of social contexts
+
+---
+
+## What gets recorded in participant observation?
+
+- Details about:
+  - The physical setting
+  - The quantity and demographics of participants
+  - Their physical appearance (such as attire)
+  - Their traffic
+  - The tools they use and/or exchange
+  - Their physical movements
+  - The way they communicate with one another
+  - ...and more. 
+
+
+---
+
+# What might be some disadvantages to this method?
+
+---
+
+## Ethical Guidelines
+
+- When should you announce yourself?
+- Do you need informed consent?
+- When is it advisable to identify participants?
+- How should I behave in the space?
+
+---
+
+## Tips for Taking Field Notes
+
+- Record the date, time, and place of data collection
+- Record as much detail as you can about what you *observe*
+- Leave space in notes to expand later
+- Use abbreviations and shorthand when possible
+- Create maps and graphics to help you remember details
+
+
+--
+
+## Expanding Field Notes
+
+- Schedule a time to do it shortly after observation
+- Convert your notes into a descriptive narrative
+- Layer interpretations of your observations
+
+  
+

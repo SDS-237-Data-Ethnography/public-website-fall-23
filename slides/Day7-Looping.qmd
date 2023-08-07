@@ -1,0 +1,82 @@
+---
+title: "Day Seven: Data Looping Effects"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Announcements
+
+-   Office hours for help with labor log.
+-   Group contract and first field note due next Tuesday.
+
+---
+
+# What were some takeaways from Tuesday's class?
+
+---
+
+## Think about a category or label that institutions assign to a group of people. Free-write for about 2 minutes on the following prompt: How does the existence of this category or label impact certain social groups?
+
+---
+
+## Turn to your neighbor and discuss:
+
+- Why does this category or label exist?
+- In what ways has this category or label been normalized in society?
+- What happens when folks don't agree with the assignment? Can they contest it?
+
+---
+
+## Assemblages
+
+- Contests the idea that data are hard, shiny objects that can be held, acquired, etc.
+- When we talk about data, we are actually referring to many interrelated things:
+  - Materialities, practices, subjectivities, places, governmentalities, etc.
+  - See table in this week's reading
+- "Data" emerges in the wake of these interrelated assemblages
+
+---
+
+## Hacking’s Looping Effect
+
+![](https://www.researchgate.net/profile/Serife-Tekin/publication/290942593/figure/fig2/AS:621511631192064@1525191328003/Looping-effects-in-later-hacking.png)
+> Tekin, Serife. 2014. “The Missing Self in Hacking’s Looping Effect.” In Classifying Psychopathology: Mental Kinds and Natural Kinds, edited by Harold Kincaid and Jacqueline A. Sullivan. MIT Press.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-_ARP8m4Fg?start=960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="800" height="505" src="https://www.youtube.com/embed/kiwRnrpKuIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+---
+
+
+
+

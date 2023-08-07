@@ -1,0 +1,197 @@
+---
+title: "Day Five: Thick Data for Big Data"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Announcements
+
+- You will be assigned project groups by Tuesday.
+- Your first group project - the team contract - will be due the following week.
+- DM Rose if you'd like to lead class discussion. 
+
+---
+
+# What were three takeaways from class on Monday?
+
+---
+
+## Imagine you were an ethnographer attending Astro Hack Week. Write a quantitative research question for a study you might conduct. Now write a qualitative research question. 
+
+
+---
+
+## Turn to your neighbor and discuss:
+
+- How would these research projects look different?
+- What kind of data would you collect?
+- How would you interpret the data differently?
+
+---
+
+## Discliplinary Conventions
+
+- What is considered a relevant research question?
+- What kind of arguments are made?
+- What kind of data is collected/produced/presented?
+- How is collaboration valued?
+- When/how is data shared?
+
+
+---
+
+## Disciplinary Genres
+
+- Is text written in active or passive voice? Personal pronouns?
+- Are subheadings chosen based on academic conventions?
+- What kind of evidence is presented to persuade the reader? Statistics? Anecdotes?
+- In what ways are research methods explicated?
+- How and with what sort of detail are objects of study described?
+- What role do poetics and metaphor play in the text? Can you identify emotion?
+- What reflexive moves (self-reflection) does the author make? How do they elaborate their standpoint in/through the text?
+ 
+
+---
+
+## What is ethnography?
+
+- Study of human cultures
+  - Culture often defined as "semiotic"
+  - Ethnographers aim to interpret the underlying meanings of surface actions and expressions
+  - Make the "familiar strange"
+- Often characterized as interpretivist and qualitative
+- Typically involves extended, immersive fieldwork
+- Has historically been a solo discipline
+- Qualitative data rarely shared
+
+---
+
+## Methods of Ethnography
+
+- Participant Observation
+  - Observing interaction and behaviors "in the field"
+- Interviewing
+  - Engaging in semi-structured conversations with informants
+- Archival Research
+  - Curating and interpreting historical documents and artifacts
+- Discourse analysis
+  - Interpreting the cultural meaning interwoven in texts and speech
+  
+---
+
+## Tools of Ethnography
+
+- Field Notebooks
+  - Document thick descriptions of observations
+- Recording Devices
+  - Audio and video documentation of interviews
+- Coding Software
+  - Draw out consistent themes of notes and interviews
+  
+---
+
+## What is thick description?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](https://images.pexels.com/photos/8159657/pexels-photo-8159657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
+:::
+
+::: {.column width="50%"}
+
+- Describe in the "thinnest" terms possible what is happening in this image.
+- Thick description moves towards interpreting its cultural meaning.
+- Example drawn from a famous 1973 chapter by Clifford Geertz: "Thick Description: Towards an Interpretive Theory of Culture."
+
+:::
+:::
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lezDrjrb2Gg?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UX_rPkWzlqs?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfEB_eEeZeo?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgCF3Qlu4b8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Practicing Thick Description
+
+![](https://imgs.xkcd.com/comics/machine_learning.png)
+Image source: XKCD, [https://xkcd.com/1838/](https://xkcd.com/1838/)
+
+Creative Commons Attribution-NonCommercial 2.5 License.
+
+---
+
+## How might we interpret the role of hex stickers in the `R` community?
+
+![](https://miro.medium.com/max/1400/1*JX6yfzlNuImKJwzjSXr47w.png)
+Image source: Beiers, Sophie. 2020. "Tips & Tricks from the Newbies of Rstudio::Conf2020." *ACLU Tech & Analytics (blog)*. March 13, 2020. https://medium.com/aclu-tech-analytics/tips-tricks-from-the-newbies-of-rstudio-conf2020-5ccc780ba0e7.
+
+---
+
+## Fieldnotes Assignment
+
+-   Submitted via your GitHub portfolio
+-   Must be >300 words
+-   Must include and define one *Knowledge and Understanding* concept
+-   Must be about a *data* environment encountered in the past *two* weeks
+-   Must not only describe, but also *interpret* a data environment
+
+---
+
+## Recommendations
+
+-   Discern something very small - the smaller the better - for your first field note.
+  - Examples include one headline, a poster, one line of code, etc.
+-   Stick with prompts and concepts that we've already learned (e.g. discourse, epistemology).
+-   Review the rubric on GitHub
+
+
+---
+
+## Tuesday's Reading
+
+- What are Biruk's research questions?
+- What does Biruk make known about her assumptions/beliefs/values as she begins to interpret data?
+

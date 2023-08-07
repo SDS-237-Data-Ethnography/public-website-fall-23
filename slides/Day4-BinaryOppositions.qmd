@@ -1,0 +1,118 @@
+---
+title: "Day Four: Binary Oppositions of Big Data"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Announcements
+
+- Please merge your branches into main!
+- Be sure not to close the Feedback pull request. 
+- Be sure to fill out CATME survey for next week. 
+
+---
+
+## Pull out a piece of paper, and draw a line down the center. On the left side, list adjectives that people use to describe "good" data. On the right side, write the opposite of each word you wrote on the left side. 
+
+---
+
+## Turn to your neighbor and discuss:
+
+- What data discourses are the words you wrote on the left side embedded within?
+- Can you identify any terms that might fit in between these opposites?
+
+---
+
+## Binary Oppositions
+
+- Looking at the world through pairs of terms that we consider to have the opposite meaning
+- Examples include:
+  - Real/fake
+  - Objective/subjective
+  - Nature/culture
+- Binary oppositions are reductionist, or oversimplify complexity
+- Binary oppositions are rooted in ideologies and disseminated through discourse
+
+---
+
+## Hierarchies in Binary Oppositions
+
+- In dominant discourse, one half of a binary opposition tends to be positioned as superior than the other
+- One half tends to get treated as normal or pure, and other as a deviation from the normal, or tainted
+- Binary oppositions can reinforce privilege
+- What are some examples of some hiearchical binary oppositions?
+
+---
+
+## Nature/Culture
+
+- Countless domains (disciplines, newspaper headings, etc.) organized around the divisions between nature and culture
+- Nature is often associated with purity, innateness, biology, or rawness.
+- Culture is seen as 'Other' to what is natural
+  - e.g. human judgments bias science and decision-making
+  - e.g. human cultures destroy the Earth's purity
+- Feminist critiques:
+  - Shows how purity is political
+  - Argues that we can’t tell where nature stops and culture starts
+  - Shows how the divisions justify treating certain social groups as superior and others as inferior
+  - Refers to natureculture: hybrids reverse the logic of binary oppositions
+  
+---
+
+# What are some of the discursive risks of talking about raw data?
+
+---
+
+| Good        | Bad         |
+|-------------|-------------|
+|     Raw     |    Cooked   |
+|    Clean    |    Dirty    |
+|  Objective  |  Subjective |
+| Transparent |    Opaque   |
+|    Rigid    |    Loose    |
+|     Neat    |   Scruffy   |
+|   Neutral   |   Partial   |
+|  Scientific |  Political  |
+|   Certain   |  Uncertain  |
+|   Observed  | Interpreted |
+|     Real    | Constructed |
+|   Unbiased  |    Biased   |
+|   Accurate  |  Inaccurate |
+
+---
+
+# How do the metaphors discussed in this week’s reading map on to these binary oppositions?
+
+---
+
+## Activity
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/kenneth_cukier_big_data_is_better_data" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+---
+

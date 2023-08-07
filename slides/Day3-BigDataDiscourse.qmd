@@ -1,0 +1,110 @@
+---
+title: "Day Three: Big Data Discourse"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# What did we learn about epistemology on Tuesday? How is this relevant to big data?
+
+---
+
+## Feminist Epistemologies
+
+- All knowledge is **embodied**
+  - Contrast with disembodied knowledge - i.e. not tied to a specific body
+- Bodies are situated in certain social positions and have a finite point of view (Haraway 1991)
+  - Critique of the "unmarked body," the "God trick," or the "view from nowhere"
+- Knowledge is tied to particular standpoints 
+  - Our experiences, what we’ve read, our education, our social positions, and what our bodies enable us to do, see, hear, taste, touch, and smell
+  - Factors are innumerable and unique to every person
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/78/Traquair_House_Maze.jpg)
+
+---
+
+## Discourse
+
+- How we communicate or converse about topics, people, and things
+- Dominant discourse characterizes the discourses that emerge as predominant throughout society
+  - Shapes our values, identities, behaviors, and interactions with each other
+  - Also shapes, disseminates, and is prodded by our ideologies, or worldviews
+- Cultural hegemony describes when our ideologies reflect those with power over us
+
+---
+
+# What social institutions shape predominant ways we talk about things?
+
+---
+
+# What are some examples of dominant discourse?
+
+---
+
+## Technology Discourse
+
+- Technocratic: Technology will fix social problems. 
+  - Computers will save the world!
+  - Other examples?
+- Dystopian: Technology is frightening or debilitating.
+  - Robots will take over all jobs.
+  - Other examples?
+- Determinist: Technology determines how society operates.
+  - Mobile phones are making us anti-social.
+    - Other examples?
+
+---
+
+## Discourse Analysis in Nine Steps
+
+1. Establish the context
+2. Consider the medium
+3. Discern the intended audience
+4. Assess assumptions 
+5. Identify cultural cues and references
+6. Evaluate rhetorical strategies and methods of delivery
+7. Consider the social structures the discourse operates within
+8. Assess how the discourse disseminates
+9. Reflect on what is not said or who is not included
+
+---
+
+# Reading Discussion
+  
+---
+
+## Activity
+
+- Read article linked under today's announcements
+- Highlight statements that indicate Anderson's worldview as you read
+- Referencing the Discourse Analysis in 9 Steps, discuss components of Anderson's discourse in small groups. Be sure to discuss Steps 4, 5, and 6 particularly.
+
+
+
+

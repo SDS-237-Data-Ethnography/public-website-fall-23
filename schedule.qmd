@@ -1,0 +1,120 @@
+---
+title: "Schedule"
+---
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+#| message: false
+#| warning: false
+library(tidyverse)
+library(bsplus)
+library(fontawesome)
+library(htmltools)
+library(RefManageR)
+library(lubridate)
+
+
+bib <- ReadBib("DataEthnography.bib")
+
+
+topics <- read.csv("data/topics.csv") %>%
+  mutate(date = mdy(date)) %>%
+  arrange(date)
+standards <- read.csv("data/standards.csv") %>%
+  mutate(standard_id = as.character(standard_id))
+topics[topics == ""] <- NA
+standards[standards == ""] <- NA
+required_reading <- topics %>%
+  select(topic_abbr, required_reading, req_chapter) %>%
+  separate_rows(required_reading, req_chapter, sep = ";") %>%
+  rename(reading = required_reading,
+         chapter = req_chapter)
+optional_reading <- topics %>%
+  select(topic_abbr, optional_reading, opt_chapter) %>%
+  separate_rows(optional_reading, opt_chapter, sep = ";") %>%
+  rename(reading = optional_reading,
+         chapter = opt_chapter)
+writing_assignments <- topics %>%
+  select(topic_abbr, writing_assignment) %>%
+  separate_rows(writing_assignment, sep = ";")
+project_assignments <- topics %>%
+  select(topic_abbr, project_assignment) %>%
+  separate_rows(project_assignment, sep = ";")
+topic_standards <- 
+  topics %>%
+  select(topic_id,topic_abbr,topic,standard_id,date) %>%
+  separate_rows(standard_id, sep = ";") %>%
+  left_join(standards)
+slides <- 
+  topics %>%
+  select(topic_abbr, slides) %>%
+  separate_rows(slides, sep = ";")
+links <- 
+  topics %>%
+  select(topic_abbr, link) %>%
+  separate_rows(link, sep = ";")
+codes <- 
+  topics %>%
+  select(topic_abbr, code) %>%
+  separate_rows(code, sep = ";")
+```
+
+```{r}
+#| include: false
+source("R/print_assignments.R", local = knitr::knit_global())
+source("R/buttons.R", local = knitr::knit_global())
+#source("css/custom.css", local = knitr::knit_global())
+```
+
+::: callout-note
+## Acknowledgements
+Styling and infrastructure for this page inspired by [related syllabi](https://beanumber.github.io/sds192/schedule.html) produced by Ben Baumer and R. Jordan Crouser.
+:::
+
+::: callout-tip
+All readings for this course will be available in our course Perusall, which is linked in Moodle. I encourage you to complete the readings there so that you can leave comments and questions as they come up.
+:::
+
+```{r}
+#| message: false
+#| results: 'asis'
+for (i in 1:nrow(topics)){
+  
+  todays_topic <- topics %>%
+    slice(i)
+  
+  date_format <- stamp("January 17, 1999")
+  
+  cat(paste("## ", date_format(ymd(todays_topic$date[1]))))
+  cat("\n")
+  cat(paste("### ", todays_topic$topic[1]))
+  cat("\n")
+  print_this_week_standards_buttons(todays_topic$topic_abbr[1])
+  cat("\n")
+  cat("\n")
+  cat("::: {.panel-tabset}")
+  cat("\n")
+  cat("#### Due Today")
+  cat("\n")
+  BibOptions(check.entries = FALSE,
+           bib.style = "authoryear", 
+           style = "html",
+           dashed = TRUE,
+           first.inits = FALSE, 
+           no.print.fields = c("url", "doi", "issn"))
+  print_due_today(todays_topic$topic_abbr[1])
+  cat("\n")
+  cat("#### Further Resources")
+  cat("\n")
+  print_further_reading(todays_topic$topic_abbr[1])
+  cat("\n")
+  cat(":::")
+  cat("\n")
+}
+```
+
+

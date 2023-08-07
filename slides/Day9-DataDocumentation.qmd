@@ -1,0 +1,126 @@
+---
+title: "Day Nine: Data Documentation"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# What were some takeaways from Tuesday's class?
+
+---
+
+# How do we define metadata?
+
+---
+
+## 5 W's of Metadata
+
+![](img/five-ws.png)
+
+---
+
+# Why is metadata important?
+
+---
+
+## Example: Library Catalog
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/df.png)
+:::
+
+
+::: {.column width="50%"}
+
+![](img/df-metadata.png)
+:::
+:::
+
+---
+
+## Metadata Schemas
+
+- A standardized labeling system for cataloging or describing data
+- Enables search engines to index data by certain criteria
+- Examples:
+  - Sort by "date created"
+  - Retrieve all results from a specific "author/creator"
+  - Filter results to a specific "subject"
+  - Exclude results from a specific "publisher"
+
+
+---
+
+## Example: Citation Manager
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/counting-metadata.png)
+:::
+
+::: {.column width="50%"}
+![](img/counting-meta.png)
+:::
+:::
+
+---
+
+## What’s the difference between administrative and descriptive metadata?
+
+---
+
+![](img/open-metadata.png)
+  
+---
+
+## Data Dictionaries
+
+- Documents for holding descriptive metadata
+- Define the variables in a dataset and the values that may fill in those variables
+- Are not always as descriptive as we'd like them to be
+
+---
+
+## Example: NYC Metadata for All
+
+![](img/qrcode_opendata.cityofnewyork.us.png)
+
+---
+
+## For Monday
+
+- Questions to consider:
+  - What does Biruk mean when they refer to "translation" in this chapter?
+  - Where do we see looping effects in this chapter? What gets "lost in translation"?
+

@@ -1,0 +1,124 @@
+---
+title: "Day Ten: Translation"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+# What were some takeaways from Thursday's class?
+
+---
+
+## Take out a sheet of paper and write `happiness` in the middle. Around that word, list ways that we might quantitatively measure happiness so that we might rank countries by their happiness. Be sure your ideas would produce a number. 
+
+---
+
+# Turn to your neighbor and discuss:
+
+- Through what processes would we have to translate happiness into a number?
+- What gets lost in translation?
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QJBqak4GpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Cantril Ladder
+
+-  Think of a ladder, with the best possible life for them being a 10, and the worst possible life being a 0. 
+- Rate current lives on that 0 to 10 scale. 
+- Sub-bars: levels of GDP, life expectancy, generosity, social support, freedom, and corruption 
+  - No impact on final score, only explanatory
+
+---
+
+# What does Biruk mean when they refer to “translation” in this chapter?
+
+---
+
+## Example
+
+- Research question: How do on-the-ground dynamics and practices of survey research cultures mediate the production of numbers?
+- Pg. 48 "Are you comfortable walking to the market alone?"
+- What were the responses?
+- How would you interpret what Biruk is seeing here? What’s the significance of this example?
+
+---
+
+# Where do we see looping effects in this chapter? What gets "lost in translation"?
+
+---
+
+## Example
+
+- Research question: How do on-the-ground dynamics and practices of survey research cultures mediate the production of numbers?
+- Pg. 61: Question D13
+- What does Biruk describe as the "fetish for codes?"
+- How would you interpret what Biruk is seeing here? 
+- What's the significance of this example?
+
+---
+
+## Example
+
+- Research question: How do on-the-ground dynamics and practices of survey research cultures mediate the production of numbers?
+- Why does Biruk emphasize how stakeholders perceive "the field"?
+How would you interpret what Biruk is seeing here? What’s the significance of this?
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dTzG9Jx9J4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Discussion Questions
+
+- Why is pain difficult to quantify?
+- What is the definition of pain in this standard?
+- How did the folks devising this standard attempt to make the measures commensurate?
+- What might get lost in translation?
+
+---
+
+## Analyzing Poverty Definitions Activity (if time)
+
+-   What is the purpose of this measure?
+-   What is the definition of poverty according to this standard?
+-   Through what means did this definition get established?
+-   What assumptions are built into this definition?
+-   What might get lost in translation?
+
+---
+
+# For Thursday
+
+- Questions to consider:
+  - How does Star define infrastructure?
+  - Why study infrastructure ethnographically?
+

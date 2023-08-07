@@ -1,0 +1,132 @@
+---
+title: "Day Nineteen: Mobilizating Meaning"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+## Announcements
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Optional group work time with Rose on Thursday.
+- Don't forget to fill out the group evaluations. 
+- Additional enrichment option
+  - Attend this event and write 400-word memo analyzing the topic using one of the key concepts from data activism readings (Concept must be approved by me.)
+
+:::
+
+::: {.column width="50%"}
+
+![](img/ddp.png)
+:::
+:::
+
+---
+
+## What does the following statement mean to you?
+
+> On April 10, 2023 at 9AM Northampton’s reported AQI was 54.
+
+
+---
+
+## Turn to a neighbor and discuss:
+
+- What information do we need to be able to interpret the meaning of the number 54 in the following slide?
+
+---
+
+## What is 'evidence'?
+
+- Etymologically dual meaning:
+  - Transparent, obvious, clear, speaking for itself
+  - Appearance or indication, requiring interpretation
+  
+> Biruk, Cal. 2018. Cooking Data: Culture and Politics in an African Research World. Illustrated edition. Durham: Duke University Press Books.
+
+---
+
+# How do numbers acquire meaning? Through what means do we determine their significance?
+
+---
+
+# Jot down a number that hold meaning to you and what it represents. 
+
+---
+
+## Turn to a neighbor and discuss:
+
+- How do you know if this is a big or small quantity?
+- Do you have a yardstick to help you determine this?
+- How might this number mean different things to different social groups?
+
+---
+
+## Interpretive Flexibility
+
+- Anti-determinist frameworks
+- Refers to the differing meanings that social groups assign to technologies
+- Explain how technologies are "socially constructed"
+
+---
+
+## Mobilizing Data Narratives
+
+- Mobilization refers to the processes by which people prepare something to be put to use or into action
+- Stakeholders strategically engage in meaning-making activities around data
+- Shapes societal interpretations of data
+
+---
+
+## Framing Statistics
+
+- Comparison/Ranking
+  - Is x more/less than y?
+- Standards-Setting/Benchmarking
+  - Does x meet z standard/benchmark?
+- Appealing to Emotion/Lived Experience
+  - How does x make me feel/relate to my life?
+
+---
+
+> "The actual number of Americans jailed or imprisoned, about 2.3 million." - Matt Korostoff
+
+> [https://mkorostoff.github.io/incarceration-in-real-numbers/](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+
+--- 
+
+## Take-aways 
+
+1. The meaning/significance of numbers is not self-evident.
+2. Data becomes meaningful as stakeholders develop tools for narrating the significance of a number.
+3. Ethnographers can study these meaning-making practices.
+

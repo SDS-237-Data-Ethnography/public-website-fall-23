@@ -1,0 +1,122 @@
+---
+title: "Day One: Introductions"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+# Develop a metric to quantitatively measure how "Smithie" someone is. 
+
+---
+
+## What is ethnography?
+
+- study of human culture and social relations
+- involves interactions and observations, recording, and analysis
+- data collection methods are predominantly qualitative 
+- analysis is predominantly *inductive* and *interpretive*
+
+---
+
+# What is data?
+
+---
+
+## What fields of research inform data ethnography?
+
+- Science and Technology Studies (STS)
+  - an interdisciplinary field that examines how science, technology, politics, and culture all co-produce each other
+  - STS disciplines include anthropology, sociology, literary studies, political science, economics, and more
+  - What might be some examples?
+- Critical Data Studies
+  - an interdisciplinary field examining the epistemological, political, social, and ethical aspects of data artifacts, practices, and infrastructures
+  - What are some political dimensions of data? Examples?
+  - What are some ethical dimensions of data? Examples?
+  - Is there a difference?
+  
+---
+
+## Who is the professor? Why is an anthropologist teaching data science?
+
+- Please call me Lindsay (preferred), Professor Poirier, or Dr. Poirier
+- Previously Assistant Professor of Science and Technology Studies at UC Davis
+- Lab Manager at [BetaNYC](https://beta.nyc/)
+- M.S./Ph.D. in Science and Technology Studies from Rensselaer Polytechnic Institute
+- B.S. in Information Technology and Web Science from Rensselaer Polytechnic Institute
+- Dancing, crafting, cooking, re-watching the same TV series over and over again.
+- I have a *very* spunky dog Madison.
+
+---
+
+# Who is the pedagogical partner?
+
+---
+
+
+## Exercise
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Slb8pLiPCDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::
+
+::: {.column width="50%"}
+
+- Ethnographers often collect more data than they know what to do with
+- Write as much as possible about:
+  - what people do/why they do it
+  - beliefs/values/expertise
+  - social structures
+  - questions you are left with
+  
+:::
+:::
+
+---
+
+
+## Syllabus Review
+
+- Policies
+- Grading Contract
+- Course Website
+- Perusall
+- Slack
+
+---
+
+## Reading Tuesday
+
+- How do the authors define big data? What’s special about their definition? How does it differ from other attempts to define big data?
+
+- Crawford and boyd suggest that big data changes the definition of knowledge, but perhaps not in the ways that certain pundits suggest. What are some examples they provide of the way big data changes the definition of knowledge? What warnings do they convey?
+
+- Why do the authors suggest that claims to objectivity and accuracy are misleading?
+
+- This paper was written in 2012. More than a decade later, what has changed?
+
+
+

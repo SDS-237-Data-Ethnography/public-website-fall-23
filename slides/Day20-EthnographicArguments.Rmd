@@ -1,0 +1,80 @@
+---
+title: "Day Twenty: Ethnographic Arguments"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2022<br/>
+  `r sds::img_logo(width = 64)`
+output:
+  sds::moon_reader:
+    lib_dir: libs
+    css: xaringan-custom.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+# sds::duo_smith()
+sds::mono_light_smith()
+```
+
+# Announcements
+
+* Stay tuned for updates about Monday's class
+
+---
+
+# What is an ethnographic argument?
+
+* Central theme derived from an ethnographic study
+* Identifies a certain cultural pattern or phenomena
+* Examples:
+  * How data is talked about
+  * The cultural assumptions underpinning a data infrastructure
+  * How labor is recognized in a data practice
+
+---
+
+# Writing an Ethnographic Argument
+
+* Paragraph 1: Introduction and thesis
+* Paragraph 2-x: Sub-arguments supporting thesis
+  * Presents evidence from data collection to support sub-argument
+* Paragraph Final: Summarize thesis and wrap-up
+
+---
+
+# What counts as evidence/data in ethnographic arguments?
+
+* Discourse Analysis/Interview
+  * Direct quotes and their context
+* Participant Observation
+  * Vignettes/thick description
+* Cultural Analysis of Infrastructure
+  * Material from secondary sources
+  * Facts about the infrastructure's historical development
+  * Descriptions of the organization of the infrastructure
+  
+---
+
+# Revision Expectations
+
+* Revision = re - vision = seeing again
+* Involves more than spelling and grammar fixes and word changes; editing is only one component of revision
+* Things to consider:
+  * Recognize and re-articulate the purpose
+  * Refine the focus (audience and presentation)
+  * Clarify the argument
+  * Strengthen and hone evidence
+
+> [https://writingcenter.unc.edu/tips-and-tools/revising-drafts/](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/ )

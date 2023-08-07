@@ -1,0 +1,31 @@
+.level2 {
+  margin-top: 50px;
+}
+.level3 {
+  margin-top: 30px;
+}
+.level4 {
+  margin-top: 20px;
+}
+.btn {
+  margin-bottom: 3px;
+}
+.float_image_right {
+  float: right;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.float_image_right p {
+  caption-side: bottom;
+  padding-left: 30px
+  color:#ddd;
+  font-style: italic;
+  text-align: right;
+}
+.figure {
+  display: contents;
+}
+.white-link {
+  color:white;
+  text-decoration: underline;
+}

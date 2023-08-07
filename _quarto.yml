@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  navbar:
+    background: primary
+    title: "SDS 237: Data Ethnography"
+    right:
+      - text: "Syllabus"
+        href: index.html
+      - text: "Grading Contract"
+        href: grading_contract.html
+      - text: "Learning Dimensions"
+        href: learning_dimensions.html        
+      - text: "Schedule"
+        href: schedule.html
+
+format:
+  html:
+    theme: flatly
+    css: "css/custom.css"
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: false
+    highlight: tango
+    lib_dir: libs
+
+
+

@@ -1,0 +1,80 @@
+---
+title: "Learning Dimensions"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r imports, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(bsplus)
+library(htmltools)
+standards <- read.csv("data/standards.csv")
+source("R/buttons.R", local = knitr::knit_global())
+```
+
+This course is designed to assess your work along five different learning dimensions. Class activities and assignments will reference the learning dimensions engaged, so that you have a clear understanding of what you should take-away from them. Additionally, you may be asked to reference aspects of these learning dimensions in written assignments. The five learning dimensions are as follows:
+
+### Knowledge and Understanding
+
+This dimension refers to the development of your ability to recall, define, explain, apply, and synthesize course concepts and ideas. Primary course concepts include:
+
+```{r, results='asis'}
+literacy_standards <- standards %>% 
+    filter(type == "literacy") %>%
+    select(standard_id, standard, type) %>%
+    arrange(standard_id)
+
+print_standards_buttons(literacy_standards)
+```
+
+### Data Ethnography Methods 
+
+This dimension refers to the development of your ability to identify, implement, and critique the research methods taught in this course. Principal methods taught in this course include: 
+
+```{r, results='asis'}
+methods_standards <- standards %>% 
+    filter(type == "method") %>%
+    select(standard_id, standard, type) %>%
+    arrange(standard_id)
+
+print_standards_buttons(methods_standards)
+```
+
+### Skills and Competencies
+
+This dimension refers to the development of your ability to execute and evaluate further opportunities for growth in the skills and competencies engaged in this course. Skills practiced in this course include: 
+
+```{r, results='asis'}
+competency_standards <- standards %>% 
+    filter(type == "competency") %>%
+    select(standard_id, standard, type) %>%
+    arrange(standard_id)
+
+print_standards_buttons(competency_standards)
+```
+
+### Critical Thinking
+
+This dimension refers to the development of your ability to perceive the world in new ways, interpret cultural meaning and import, situate your own perspectives, communicate complexity, and grapple with issues that don't have easy solutions. Critical modes of thinking engaged in this course include: 
+
+```{r, results='asis'}
+critical_standards <- standards %>% 
+    filter(type == "critical-thinking") %>%
+    select(standard_id, standard, type) %>%
+    arrange(standard_id)
+
+print_standards_buttons(critical_standards)
+```
+
+### Collective Thinking and Collaborative Engagement
+
+This dimension refers to the development of your ability to recognize a diversity of perspectives, learn from others, and contribute to the functioning of a reflective, collaborative learning environment. Opportunities for cooperative engagement include:
+
+* Consistently contributing to Slack discussions
+* Submitting thoughtful, critical reflections in Perusall
+* Fostering discussion in the classroom
+* Ensuring equitable divisions of labor and support among final project group members
+
+
