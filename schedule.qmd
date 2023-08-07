@@ -16,10 +16,9 @@ library(fontawesome)
 library(htmltools)
 library(RefManageR)
 library(lubridate)
-
+library(calendR)
 
 bib <- ReadBib("DataEthnography.bib")
-
 
 topics <- read.csv("data/topics.csv") %>%
   mutate(date = mdy(date)) %>%
@@ -67,16 +66,50 @@ codes <-
 #| include: false
 source("R/print_assignments.R", local = knitr::knit_global())
 source("R/buttons.R", local = knitr::knit_global())
+source("R/calendar.R", local = knitr::knit_global())
 #source("css/custom.css", local = knitr::knit_global())
 ```
 
 ::: callout-note
 ## Acknowledgements
+
 Styling and infrastructure for this page inspired by [related syllabi](https://beanumber.github.io/sds192/schedule.html) produced by Ben Baumer and R. Jordan Crouser.
 :::
 
 ::: callout-tip
 All readings for this course will be available in our course Perusall, which is linked in Moodle. I encourage you to complete the readings there so that you can leave comments and questions as they come up.
+:::
+
+:::{.callout-note collapse="true"}
+
+## Calendar View for Major Assignments
+
+```{r message=FALSE, warning=FALSE, results='hide', fig.keep='all'}
+annotation_due_dates <- topics %>%
+  select(date, required_reading) %>%
+  separate_rows(required_reading, sep = ";") %>%
+  filter(required_reading != "") %>%
+  mutate(month = month(date), day = day(date))
+
+written_due <- topics %>%
+  select(date, assignment = writing_assignment) %>%
+  separate_rows(assignment, sep = ";")
+
+group_due <- topics %>%
+  select(date, assignment = project_assignment) %>%
+  separate_rows(assignment, sep = ";") 
+
+major_due_dates <- rbind(written_due, group_due) %>%
+  filter(str_detect(assignment, "Due")) %>%
+  mutate(month = month(date), day = day(date)) %>%
+  group_by(date, month, day) %>%
+  summarize(assignment = paste(assignment, collapse = '\n'))
+
+for(i in unique(major_due_dates$month)){
+  print_calendar(major_due_dates, annotation_due_dates, i)
+}
+```
+
 :::
 
 ```{r}
@@ -116,5 +149,3 @@ for (i in 1:nrow(topics)){
   cat("\n")
 }
 ```
-
-

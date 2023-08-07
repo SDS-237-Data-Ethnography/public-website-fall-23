@@ -11,6 +11,8 @@ website:
         href: index.html
       - text: "Grading Contract"
         href: grading_contract.html
+      - text: "Assignments"
+        href: assignments.html
       - text: "Learning Dimensions"
         href: learning_dimensions.html        
       - text: "Schedule"

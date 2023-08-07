@@ -39,47 +39,7 @@ Each row indicates what labor you need to complete in the course to earn the gra
 | D | 1 or more | 1, no revision             | 1 group contract + 1 draft + 1 final project | 6 or more  | 4 or more | 0 |
 | E | 0 | 0                          | 0                         | 5 or fewer | 3 or fewer| 0 |
 
-Descriptions of all written and project assignments, along with rubrics for qualitative assessment of each, will be made available to you in the GitHub repositories where you will submit work this semester. For an assignment to be considered complete, it must meet the minimum criteria outlined in the assignment description. It also must be completed "in good faith" - meaning in a way that demonstrates integrity to the spirit of the assignment. 
-
-## Final Project Resources
-
-This semester your project group will develop a user guide for a federal dataset. You will complete a series of exercises in class to support you in writing the guide. These exercises are **not graded**; they are meant to frame your research and help you generate material for the project. You should work on relevant aspects of them weekly with your group in order to make progress towards the final product. While these exercises will include both qualitative and computational exercises, the point of this project is not to perform a statistical analysis on this dataset. Instead, you will study the dataset ethnographically and strive to effectively communicate how the dataset came to be, how it has disseminated, how it can be used, and what some of its limitations are. 
-
-- [Project Description](https://github.com/SDS-237-Data-Ethnography/group-project)
-- [Rose's Project Guide Sheet](https://docs.google.com/document/d/18Up92NWlhryOQtP3u8x5t2LdFce_qHACYn6m2lF5pjw/edit?usp=sharing)
-- [Dataset Loading Instructions](https://docs.google.com/document/d/1oCuDicX25irepKLAFTffOkMFpv4k7G_6Utozg4Tl5aU/edit#heading=h.j6tzimcx56bb)
-- [Example User Guide](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SDS-237-Data-Ethnography/sds-237-group-project-group-4/main/final-project.html?token=GHSAT0AAAAAABST4ULOFX54ODX7BDW5ZJSCZBBULVA)
-
-Below I've outlined completion criteria for the two non-written assignments for this course. 
-
-### Reading Annotations
-
-Each week a selection of course readings will be posted as a single assignment on Perusall - a system for students to collaboratively annotate course readings. To earn this credit, you will be expected to post 3 quality annotations per assignment to Perusall. (Note that a single assignment can have multiple readings, but you need only submit 3 annotations total. You do not need to annotate every reading in the assignment.) A quality annotation is one in which you synthesize concepts, ask thought-provoking questions, or connect ideas to external issues. I have found that students get the most out of Perusall when they respond to each other's annotations. Annotations must be completed before class to receive credit.
-
-### Community Labor
-
-Ethnography is at its best when it involves collaborative inquiry and interpretation. Because of this, I want to encourage us to foster a cooperative community in our classroom. Ethnographers know that building and sustaining strong communities are important and often invisible forms of labor. In an effort to foreground and reward that labor, I've built opportunities to contribute to the course community into our grading contract. There are four opportunities for earning community labor points in this course. *It will be your responsibility to keep track of your community labor via our course labor log (see FAQ).*
-
-#### Contributing on Slack
-
-The first opportunity for earning community labor points is through posting in the `#sds-237-discussions` Slack channel. For every conversation that you initiate in this channel, you will earn 1 community labor point. For every conversation that you respond to in this channel with substantive summary, critique, or reflection, you will earn 1 community labor point. Finally, for every question that you *answer* in the `#sds-237-questions` channel, you will earn 1 community labor point. 
-
-#### Completing Group Evaluations
-
-Mid-way through the semester you will have an opportunity to evaluate your own contributions to your group work, along with that of your peers. Your feedback will be shared with members of your group. Completing group evaluations will count for 1 community labor point. 
-
-#### Participating in Peer Review Workshops
-
-Throughout the semester, I will set up workshops where students may submit their written work for peer review in preparation for assignment submissions. Each peer review workshop that you participate in will count for 2 community labor points. 
-
-#### Contributing Class Notes
-
-Following a class period, up to two students may type up a 1-page outline of what was covered in that class period and post a link to that outline in `#sds-237-class-notes`. You can sign-up to serve as the notetaker for a certain class [here](https://moodle.smith.edu/mod/scheduler/view.php?id=1002501). These notes should be a full, single-space page, and should make sense to someone that was not present in class. Each class note outline that you contribute will count for 2 community labor points. 
-
-
-Note that throughout the semester, I may offer additional opportunities to earn community labor points as unexpected forms of course labor arise. 
-
-<div class="alert alert-dismissible alert-info">The final project will be completed in groups, and considerable chunks of the group project will be completed in class on Thursdays. While I will not formally be taking attendance for this course, I reserve the right to adjust your final grade by a letter grade if you've missed more than three classes involving final project group work. Be sure to reach out to me early on if there are extenuating circumstances that will consistently impact your attendance.</div> 
+Descriptions of all written and project assignments are available [here](assignments.html). For an assignment to be considered complete, it must meet the minimum criteria outlined in the assignment description. It also must be completed "in good faith" - meaning in a way that demonstrates integrity to the spirit of the assignment. 
 
 ## FAQ
 
@@ -101,7 +61,7 @@ Throughout the semester, you will be asked to keep track of your labor via a log
 
 ### Can I earn +/- grades in this course?
 
-+/- will be assigned to final grades at my discretion in cases where a student's work consistently exceeds the expectations (+) of their contracted grade or is in some way insufficient (-). Students can track their progress towards a grade modifier in feedback that I provide throughout the semester.
++/- will be assigned to final grades at my discretion in cases where a student's work consistently exceeds the expectations (+) of their contracted grade or is in some way insufficient (-). Students can track their progress towards a grade modifier in feedback that I provide throughout the semester. Your grade may also be reduced by a grade modifier for each missed class beyond three absences.
 
 ### What if I need an extension on an assignment?
 

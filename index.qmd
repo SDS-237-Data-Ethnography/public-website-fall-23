@@ -43,22 +43,10 @@ knitr::include_graphics("https://www.smith.edu/sites/default/files/styles/img-fa
 
 I am a cultural anthropologist that studies how civic data gets produced, how communities think about and interface with data, and how data infrastructure can be designed more equitably. My Ph.D. is in an interdisciplinary discipline called Science and Technology Studies - a field that studies the intricate ways science, technology, culture, and politics all co-constitute each other. I work on a number of collaborative research projects that leverage public data to deepen understanding of social and environmental inequities in the US, while also qualitatively studying the politics behind data gaps and inconsistencies. As an instructor, I prioritize active learning and often structure courses as flipped classrooms. You can expect in-class time to predominantly involve group activities and live problem-solving exercises.
 
-## Pedagogical Partner
-
-::: float_image_right
-```{r}
-#| label: Rose Evard
-#| fig-cap: Rose Evard, she/her
-#| out.width: "200px"
-knitr::include_graphics("img/Evard_Sum_2022.jpg")
-```
-:::
-
-Rose Evard (she/her) is a ’23 Biology and Statistics & Data Science double major who took SDS 237 last fall.  She’s passionate about bringing data science principles and strategies into her biology research.  This is her second semester as a Pedagogical Partner for SDS 237.  Rose will participate in class discussions, provide guidance for approaching assignments, and is available for technical assistance.
-
 ### Getting in Touch
 
 ::: panel-tabset
+
 #### Slack
 
 I can best support students in this course when I can readily keep tabs on our course-related communication. Because of this, I ask that you please don't email me regarding course-related questions or issues. The best way to get in touch with me is via our course Slack. If you have course-related questions, I encourage you to ask them in the `#sds-237-questions` channel. When discretion is needed, feel free to DM. Please reserve more formal concerns like grades or accommodation requests for an in-person (or in-person virtual) conversation.
@@ -79,7 +67,7 @@ There are two ways to meet with me. If you would like to have a one-on-one priva
 
 ## Course Texts
 
-This semester we will be reading Crystal Biruk's [**Cooking Data: Culture and Politics in an African Research World**](https://www.dukeupress.edu/cooking-data). The book should be available at the Smith bookstore. I will make all other course readings available on Perusall, which can be accessed through our course Moodle page. 
+I will make all course readings available on Perusall, which can be accessed through our course Moodle page. 
 
 ## Assessment
 
@@ -100,7 +88,11 @@ This is a 4-credit course with 3 hours per week of in-classroom instructions. Sm
 
 ### Attendance
 
-Attending class is not only important for your learning but also an act of community. Attendance is expected in this course. Many course assignments will be completed in-class. That said, you do not need to inform me when you will be absent. If you are sick, please stay home. If you must miss a class entirely, you should contact a peer to discuss what was missed. Please note that the [SDS Program](https://www.smith.edu/academics/statistics) has adopted a shared policy regarding in-person attendance this semester:
+Attending class is not only important for your learning but also an act of community. Many course assignments will be completed in-class, and many critical thinking skills will be honed in class. 
+
+Attendance will be taken in the first 10 minutes of each class. You may miss three classes with no penalty. You do not need to inform me that you will be absent in these cases, but you should let your group members know. After the third unexcused absence, your grade may drop by a modifier for each class missed. Students arriving more than 10 minutes late for class without having informed me ahead of time will be marked as absent.
+
+If you must miss a class entirely, you should contact a peer to discuss what was missed. Please note that the [SDS Program](https://www.smith.edu/academics/statistics) has adopted a shared policy regarding in-person attendance this semester:
 
 > In keeping with Smith’s core identity and mission as an in-person, residential college, SDS affirms College policy (as per the Provost and Dean of the College) that students will attend class in person. SDS courses will not provide options for remote attendance. Students who have been determined to require a remote attendance accommodation by the Office of Disability Services will be the only exceptions to this policy. As with any other kind of ADA accommodations, please notify your instructor during the first week of classes to discuss how we can meet your accommodations. 
 
