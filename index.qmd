@@ -57,7 +57,7 @@ I can best support students in this course when I can readily keep tabs on our c
 
 Meeting with me outside of class is a great opportunity for us to chat about what you're learning in the course, clarify expectations on assignments, and review work in progress. I also love when students drop in to office hours to request book recommendations, discuss career or research paths, or just to say hi! 
 
-There are two ways to meet with me. If you would like to have a one-on-one private conversation, I ask that you schedule an appointment with me via the [booking form on Moodle](https://moodle.smith.edu/mod/url/view.php?id=996336). For support on class topics, you may drop-in during my regularly scheduled office hours.
+There are two ways to meet with me. If you would like to have a one-on-one private conversation, I ask that you schedule an appointment with me via the [booking form on Moodle](https://moodle.smith.edu/mod/url/view.php?id=1060025). For support on class topics, you may drop-in during my regularly scheduled office hours.
 
 -   Monday, 11-12, Sabin-Reed 331
 -   Tuesday, 11-12, Sabin-Reed 331
@@ -103,7 +103,7 @@ I understand that you will sometimes need to prioritize other things over meetin
 1. First, one of the key aims of assignments in this course is to support you in learning to become more perceptive to data environments surrounding you. Because of this I've deliberately spread course assignments out over the semester in order to help you gain practice in consistently paying attention to these environments. This critical mode of thinking can't be cultivated effectively if the work is being crammed into later parts of the semester. 
 2. Second, because this course emphasizes student growth over achievement, I also want to ensure that I can provide feedback on your writing in time for you to incorporate it into future assignments. 
 
-There is a 24-hour grace period on all written assignments. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=996325) on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted. 
+There is a 24-hour grace period on all written assignments. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=1060015) on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted. 
   
 Note that this policy does not apply to reading assignments/Perusall annotations. *Reading assignments/Perusall annotations need to be completed by the due date for credit.*
 
