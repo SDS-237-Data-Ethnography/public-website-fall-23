@@ -28,7 +28,7 @@ Without rich documentation, quantitative data can strip away critical context ne
 3. Strategically apply relevant ethnographic methods to the study of a data setting or artifact
 4. Produce data documentation and visualizations that account for the cultural contexts of data production, categorization, measurement, and use
 
-Classes will be held on Tuesdays and Thursdays from 9:25 PM to 10:40 PM. 
+Classes will be held on Tuesdays and Thursdays from 9:25 AM to 10:40 AM. 
 
 ## Course Instructor
 
@@ -59,9 +59,8 @@ Meeting with me outside of class is a great opportunity for us to chat about wha
 
 There are two ways to meet with me. If you would like to have a one-on-one private conversation, I ask that you schedule an appointment with me via the [booking form on Moodle](https://moodle.smith.edu/mod/url/view.php?id=1060025). For support on class topics, you may drop-in during my regularly scheduled office hours.
 
--   Monday, 11-12, Sabin-Reed 331
--   Tuesday, 11-12, Sabin-Reed 331
--   Thursday, 11-12, Sabin-Reed 331
+-   Monday, 11-12, McConnell 214
+-   Tuesday, 11-12, McConnell 214
 
 :::
 
