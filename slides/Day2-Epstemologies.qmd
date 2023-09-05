@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -70,11 +70,12 @@ execute:
 
 ## Reading Discussion
 
--   Facilitator: Introduces the question. Keeps time. Points out when the group has gone on a tangent. Encourages everyone to share thoughts. 
--   Connector: Draws connections across peer contributions. Also connects to current events or "real world" examples.
--   Summarizer: Keeps track (via notes) of the most important points made in the conversation. At a summary break and at the end of discussion, recites a summary of *three* key points made so far. 
--   Devil's Advocate: Offers counter-arguments and polite critiques to keep the conversation. 
--   Reporter: Reports the key points from the conversation out the the class at the conclusion of the exercise.
+> What are the consequences of perceiving the work and technologies in big data and AI as "magic"?
+
+- Assign someone to take notes and someone else to facilitate.
+- To start, everyone will take a turn to offer their brief initial perspective. 
+- Open for broader discussion. The facilitator should keep time and ensure the conversation stays on topic. 
+- Prepare two bullet points that summarize the key takeaways from your discussion to report out. 
 
 ---
 

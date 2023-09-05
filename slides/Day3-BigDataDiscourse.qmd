@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -30,22 +30,6 @@ options(htmltools.dir.version = FALSE)
 ```
 
 # What did we learn about epistemology on Tuesday? How is this relevant to big data?
-
----
-
-## Feminist Epistemologies
-
-- All knowledge is **embodied**
-  - Contrast with disembodied knowledge - i.e. not tied to a specific body
-- Bodies are situated in certain social positions and have a finite point of view (Haraway 1991)
-  - Critique of the "unmarked body," the "God trick," or the "view from nowhere"
-- Knowledge is tied to particular standpoints 
-  - Our experiences, what we’ve read, our education, our social positions, and what our bodies enable us to do, see, hear, taste, touch, and smell
-  - Factors are innumerable and unique to every person
-
----
-
-![](https://upload.wikimedia.org/wikipedia/commons/7/78/Traquair_House_Maze.jpg)
 
 ---
 
