@@ -60,6 +60,8 @@ codes <-
   topics %>%
   select(topic_abbr, code) %>%
   separate_rows(code, sep = ";")
+
+perusall_link <- "https://app.perusall.com/courses/sds237-01-data-ethnography-956379999/_/dashboard/assignments/tgtQvRC7Gnd4g7puB"
 ```
 
 ```{r}
@@ -139,11 +141,11 @@ for (i in 1:nrow(topics)){
            dashed = TRUE,
            first.inits = FALSE, 
            no.print.fields = c("url", "doi", "issn"))
-  print_due_today(todays_topic$topic_abbr[1])
+  print_due_today(perusall_link, todays_topic$topic_abbr[1])
   cat("\n")
   cat("#### Further Resources")
   cat("\n")
-  print_further_reading(todays_topic$topic_abbr[1])
+  print_further_reading(perusall_link, todays_topic$topic_abbr[1])
   cat("\n")
   cat(":::")
   cat("\n")

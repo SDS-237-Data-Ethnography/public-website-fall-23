@@ -1,6 +1,6 @@
-print_readings <- function(reading_df){
+print_readings <- function(perusall_link, reading_df, required_flag){
   reading_list <- c()
-  
+
   reading_keys <- reading_df %>% 
     select(reading, chapter) %>%
     filter(!is.na(reading)) %>%
@@ -14,8 +14,12 @@ print_readings <- function(reading_df){
         capture.output(print(bib[x], .opts = list(style = "markdown"))), 
         collapse = " ")
     })
-    
-    cat(paste("", fa(name ="book"), " ", reading_keys$chapter, reading_list), sep = '  \n')
+    if(required_flag == TRUE) {
+      cat(paste("", fa(name ="book"), " ", reading_keys$chapter, reading_list," [Read in Perusall](", perusall_link, ")"), sep = '  \n')
+    }
+    else {
+      cat(paste("", fa(name ="book"), " ", reading_keys$chapter, reading_list), sep = '  \n')
+    }
   }
   else{
   }
@@ -96,16 +100,16 @@ print_slides <- function(slides_df){
 #   }
 # }
 
-print_due_today <- function(topic){
+print_due_today <- function(perusall_link, topic){
   this_week_required_reading <- required_reading %>% filter(topic_abbr == topic) 
   this_week_project_assignments <- project_assignments %>% filter(topic_abbr == topic)
   this_week_writing_assignments <- writing_assignments %>% filter(topic_abbr == topic)
-  print_readings(this_week_required_reading)
+  print_readings(perusall_link, this_week_required_reading, required_flag = TRUE)
   print_project_assignments(this_week_project_assignments)
   print_writing_assignments(this_week_writing_assignments)
 }
 
-print_further_reading <- function(topic){
+print_further_reading <- function(perusall_link, topic){
   this_week_slides <- slides %>% filter(topic_abbr == topic)
   print_slides(this_week_slides)
   this_week_codes <- codes %>% filter(topic_abbr == topic) 
@@ -113,7 +117,7 @@ print_further_reading <- function(topic){
   this_week_links <- links %>% filter(topic_abbr == topic) 
   print_links(this_week_links)
   this_week_optional_reading <- optional_reading %>% filter(topic_abbr == topic) 
-  print_readings(this_week_optional_reading)
+  print_readings(perusall_link, this_week_optional_reading, required_flag = FALSE)
 }
 
 # print_today_announcements <- function(topic){
