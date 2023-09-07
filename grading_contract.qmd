@@ -65,7 +65,7 @@ Throughout the semester, you will be asked to keep track of your labor via a log
 
 ### What if I need an extension on an assignment?
 
-There is a 24-hour grace period on all written assignments, except for reading annotations. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the Extension Request form on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted.
+There is a 24-hour grace period on all written assignments, except for reading annotations. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=1060015) on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted.
    
 ### Can I ask for extensions or use the grade period for reading annotations?
 
@@ -73,6 +73,6 @@ Reading assignments/Perusall annotations prepare you to participate in class dis
 
 ### An assignment deadline is approaching, and I'm unhappy with the quality of my work. What should I do?
 
-While I always encourage students to strive to submit the best work they can, this course's grading contract, coupled with the course's revision assignments, permits you to submit work that you know you want to continue to improve upon without penalty. Not submitting assignments at all has the potentially to significantly lower your grade in this course, whereas submitting an assignment that could benefit from more revision will not be detrminental to your grade as long as the minimum submission requirements are met.
+While I always encourage students to strive to submit the best work they can, this course's grading contract, coupled with the course's revision assignments, permits you to submit work that you know you want to continue to improve upon without penalty. Not submitting assignments at all has the potentially to significantly lower your grade in this course, whereas submitting an assignment that could benefit from more revision will not be detrimental to your grade as long as the minimum submission requirements are met.
 
 
