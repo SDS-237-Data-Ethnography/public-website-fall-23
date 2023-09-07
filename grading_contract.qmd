@@ -33,11 +33,11 @@ Each row indicates what labor you need to complete in the course to earn the gra
 
 | Grade | Completed Journal Entries (out of 5) | Completed Mini-projects | Completed Checkpoints for Final Project | Completed Reading Annotations | Community Labor Points | Enrichment
 |:--:|:---:|:----:|:------:|:---:|:---:|:--:|
-| A | 3 or more | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 10 or more | 8 or more | 3 |
-| B | 3 or more | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 10 or more | 8 or more | 0 |
-| C | 2 or more | 1 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 8 or more  | 6 or more | 0 |
-| D | 1 or more | 1, no revision             | 1 group contract + 1 draft + 1 final project | 6 or more  | 4 or more | 0 |
-| E | 0 | 0                          | 0                         | 5 or fewer | 3 or fewer| 0 |
+| A | 4 or more | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 10 or more | 8 or more | 3 |
+| B | 4 or more | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 10 or more | 8 or more | 0 |
+| C | 3 or more | 1 + 1 substantive revision | 1 group contract + 1 draft + 1 final project | 8 or more  | 6 or more | 0 |
+| D | 2 or more | 1, no revision             | 1 group contract + 1 draft + 1 final project | 6 or more  | 4 or more | 0 |
+| E | 1 | 0                          | 0                         | 5 or fewer | 3 or fewer| 0 |
 
 Descriptions of all written and project assignments are available [here](assignments.html). For an assignment to be considered complete, it must meet the minimum criteria outlined in the assignment description. It also must be completed "in good faith" - meaning in a way that demonstrates integrity to the spirit of the assignment. 
 
