@@ -68,6 +68,22 @@ execute:
 
 ---
 
+## "New" Epistemologies of Big Data
+
+- "End of theory" and the need for experimentation
+- Knowledge creation is purely inductive
+- Data can "speak for itself"; it is self-evident
+- Patterns in data are inherently meaningful
+- Meaning presented by data transcends context
+
+...according to (Kitchin 2013)
+
+---
+
+# How did this week's reading critique some of these epistemologies?
+
+---
+
 ## Reading Discussion
 
 > What are the consequences of perceiving the work and technologies in big data and AI as "magic"?
