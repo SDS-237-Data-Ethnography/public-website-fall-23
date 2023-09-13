@@ -29,7 +29,36 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
+# Data is the new ________. (Fill with a term that represents dominant beliefs about data.)
+
+---
+
+## Turn to a neighbor and discuss:
+
+- What assumptions are built into this metaphor?
+- What are the some social consequences of associating data with this idea?
+
+---
+
 # What did we learn about epistemology on Tuesday? How is this relevant to big data?
+
+---
+
+## Feminist Epistemologies
+
+- All knowledge is **embodied**
+  - Contrast with disembodied knowledge - i.e. not tied to a specific body
+- Bodies are situated in certain social positions and have a finite point of view (Haraway 1991)
+  - Critique of the "unmarked body," the "God trick," or the "view from nowhere"
+- Knowledge is tied to particular standpoints 
+  - Our experiences, what we’ve read, our education, our social positions, and what our bodies enable us to do, see, hear, taste, touch, and smell
+  - Factors are innumerable and unique to every person
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/78/Traquair_House_Maze.jpg)
+marsroverdriver, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+
 
 ---
 
@@ -79,7 +108,14 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-# Reading Discussion
+## Reading Discussion
+
+> What connotations are wrapped into the metaphors often used to characterize data? Why do the metaphors we use to describe data matter?
+
+- Assign someone to take notes and someone else to facilitate.
+- To start, everyone will take a turn to offer their brief initial perspective. 
+- Open for broader discussion. The facilitator should keep time and ensure the conversation stays on topic. 
+- Prepare two bullet points that summarize the key takeaways from your discussion to report out. 
   
 ---
 
