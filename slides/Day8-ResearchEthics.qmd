@@ -45,51 +45,6 @@ options(htmltools.dir.version = FALSE)
 
 # What were some takeaways from Thursday's class?
 
----
-
-## Common Rule
-
-- In the US, research organizations receiving federal funding are subject to the Common Rule
-  - Laws and regulations regarding how Institutional Review Boards are to operate
-  - IRBs are organizational bodies that review the ethics of human subjects research in order to protect human welfare, rights, and privacy before a study gets carried out
-- Usually composed of representatives from an institution with a diverse background
-
----
-
-## Tuskegee Study
-
-- Conducted from 1932 to 1972 by US Public Health Services and Center for Disease Control, in collaboration with Tuskegee University in Alabama
-- Involved 400 African Americans with syphilis 
-- Study of leaving the disease untreated even though it was treatable
-  - Were told they would receive free medical care
-  - Never informed of their diagnosis
-  - Provided with placebos and ineffective methods
-
----
-
-## Facebook’s Emotional Contagion Study
-
-- January 2012, Facebook data scientists manipulated what 700,000 users saw on feeds to examine emotional contagion
-  - Some shown happy, positive content
-  - Others shown sad, negative content
-- Legal?
-- Ethical?
-
----
-
-## Ethics of ethnographic research
-
-- Ethnography different than many other forms of human subjects research in that it takes place in natural settings vs in clinical settings
-- Question of how to balance benefits of the research with the potential harms posed to the participants
-- Potential harms:
-  - Reputation
-  - Disclosure of personal information
-  - Disruption of relationships
-  - Loss of claims
-  
----
-
-# What about informed consent in virtual spaces?
 
 ---
 

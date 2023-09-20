@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -118,9 +118,5 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-## For Monday
-
-- Questions to consider:
-  - What does Biruk mean when they refer to "translation" in this chapter?
-  - Where do we see looping effects in this chapter? What gets "lost in translation"?
+## Discussion of Final Project
 

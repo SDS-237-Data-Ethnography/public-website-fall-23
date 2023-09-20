@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -29,17 +29,6 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
-## Announcements
-
-- You will be assigned project groups by Tuesday.
-- Your first group project - the team contract - will be due the following week.
-- DM Rose if you'd like to lead class discussion. 
-
----
-
-# What were three takeaways from class on Monday?
-
----
 
 ## Imagine you were an ethnographer attending Astro Hack Week. Write a quantitative research question for a study you might conduct. Now write a qualitative research question. 
 
@@ -54,6 +43,11 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
+
+# Reading Discussion
+
+---
+
 ## Discliplinary Conventions
 
 - What is considered a relevant research question?
@@ -61,7 +55,6 @@ options(htmltools.dir.version = FALSE)
 - What kind of data is collected/produced/presented?
 - How is collaboration valued?
 - When/how is data shared?
-
 
 ---
 
@@ -190,7 +183,7 @@ Image source: Beiers, Sophie. 2020. "Tips & Tricks from the Newbies of Rstudio::
 
 ---
 
-## Tuesday's Reading
+## Thursday's Reading
 
 - What are Biruk's research questions?
 - What does Biruk make known about her assumptions/beliefs/values as she begins to interpret data?
