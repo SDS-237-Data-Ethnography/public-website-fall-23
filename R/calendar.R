@@ -1,7 +1,10 @@
 print_calendar <- function(major_due_dates, annotation_due_dates, m) {
 
-  major_due_dates_m <- major_due_dates %>% filter(month == m)
+  major_due_dates_m <- major_due_dates %>% filter(month == m) %>%
+    mutate(assignment = str_replace_all(assignment, "\\[|\\]", "")) %>%
+    mutate(assignment = str_replace_all(assignment, "\\s*\\([^\\)]+\\)", ""))
   annotation_due_dates_m <- annotation_due_dates %>% filter(month == m)
+  
   
   print(calendR(year = 2023, 
           month = m,       # Year and month
