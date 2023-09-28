@@ -7,9 +7,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## Fieldnotes
+## Field Notes
 
-Instructions for the fieldnote assignment can be found [here](https://github.com/SDS-237-Data-Ethnography/portfolio/tree/main/fieldnotes).
+Instructions for the field note assignment can be found [here](https://github.com/SDS-237-Data-Ethnography/portfolio/tree/main/fieldnotes).
+
+- Previous Student Field Notes [here](example_fieldnotes.html)
+- [Here](https://escholarship.org/content/qt2570w9wk/qt2570w9wk.pdf)'s an example of some very short ""thick description"" write-ups of two data environments from my own research.
 
 ## Mini-Projects + Substantive Revision
 

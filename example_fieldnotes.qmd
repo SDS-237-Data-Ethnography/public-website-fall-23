@@ -1,0 +1,34 @@
+---
+title: "Example Field Notes"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(lubridate)
+```
+
+
+## SDS 237 Spring '23: Casey MacGibbon
+
+```{r metadata_1, echo=FALSE, results='asis'}
+observer_1 <- "Casey MacGibbon"
+date_observed_1 <- mdy("02/10/2023")
+date_written_up_1 <- mdy("02/19/2023")
+location_1 <- "The Human Performance Labratory, Scott Gym, Smith College"
+cat(paste0("This entry documents a data environment ", observer_1, " observed on ", date_observed_1, " in ", location_1, ". The observations were written up on ", date_written_up_1, "."))
+```
+
+My stopwatch hits 20:00:00. 
+
+"Alright, it’s been five minutes since I last asked, how rigorous do you feel your exercise is on a scale of 6-20?" I say, holding up a reference board for the participant. She points to a 12, which is labeled as "Somewhat hard." She is on minute twenty of her acute bout of exercise, where she is walking at a moderate pace on the treadmill, and we are monitoring her heart rate from an electronic wristband.
+
+Recently, I have begun research work and analysis for the Witkowski Vascular Function Lab, and this was the first time I went in to observe a visit with a participant. I am new to the lab, and my perspective still feels a bit like an outsiders’. After the visit, I asked Dr. Witkowski explained that each number on the reference board corresponded to a heart rate by multiplying the number by 10, essentially acting as a participant’s heart rate experience. She explained to me how there are two different "data streams" throughout the lab, one being objective and the other subjective. 
+
+The idea of objective/subjective data is an example of a binary opposition: a pair of terms with opposite meanings. I noticed how much more "objective" data collection was valued, while a lot of the data collected from the participant was thought of as "subjective," and thought of to be more subject to inaccuracy. Data is categorized as one or the other.
+	
+No data can be subjective, because the mere decision to begin collecting data means that there are expectations and biases put into the collection of data. Though the target heart rate is an "objective" part of the study because it is numerical, does not mean it is without bias. Heart rate calculations have historically ignored weight, height, average physical activity, and many other factors. This is just one example of how all of the data is biased, and cannot be placed into these categorizations.
+Additionally, the "data streams" figure of speech is a part of popular data *discourse*, contributing to the idea that data is a natural resource waiting to be found, untainted and untouched by human interference.
+
+Discourse is the way that people talk about and engage with a certain thing/person, and dominant discourse can often characterize how we think about this topic as a society. The imagery of a data stream indicates that data is natural and is something we can "drink" from at any time. In reality, all data is collected from humans, who are limited in their standpoints and views.
+
+...I will add more as I get permission from former students.
