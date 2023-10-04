@@ -1047,7 +1047,7 @@
     "href": "slides/Day11-Infrastructure.html#turn-to-your-neighbor-and-discuss",
     "title": "Day Eleven: Ethnographies of Infrastructure",
     "section": "Turn to your neighbor and discuss:",
-    "text": "Turn to your neighbor and discuss:\n\nHow often do you think about this infrastructure? Did you notice it pre-breakdown?\nWho has a say in the design of this infrastructure, and who is excluded?"
+    "text": "Turn to your neighbor and discuss:\nPick one supporting infrastructure:\n\nHow often do you think about this infrastructure? Did you notice it pre-breakdown?\nWho has a say in the design of this infrastructure, and who is excluded?"
   },
   {
     "objectID": "slides/Day11-Infrastructure.html#stars-definition-of-infrastructure",
@@ -1895,5 +1895,33 @@
     "title": "Example Field Notes",
     "section": "SDS 237 Spring ’23: Elm Markert",
     "text": "SDS 237 Spring ’23: Elm Markert\nThis entry documents a data environment Elm Markert observed on 2023-03-24 in CMB and email inbox. The observations were written up on 2023-03-29.\n\nPlease note that certain details in this entry were anonymized for the purposes of sharing. Names and titles have been changed.\n\nThe Center [redacted] is on the first floor of [redacted] down a long hall of labs. I go there regularly for my research project and am always greeted with a friendly face – Morgan. They’re the technical director of the Center and help students with research. This includes teaching students to use instruments that some senior researchers don’t even get their hands on. They’re a patient teacher and helpful during experiments. They’re also a core part of a lot of the data labor (work that goes into creating, supporting, processing, and analyzing information) that happens in my research field.\nWhile Morgan is highly valued on a personal amongst colleagues, on an institutional level, they disappear a little bit. While most people outside the department recognize the research professors do, Morgan fades into the background a little more. They also don’t get to do their own research, and the Center’s budget is generally devoted to making sure professors get what they need for their research. As a result, despite the amount that they help with student research, Morgan rarely gets put on papers as an author.\nHowever, Morgan does love their job. They’re excellent at training people on equipment and prefer being technical support to lecturing. They know the ins and outs of the instruments and do more hands-on work than most professors. Data produced in the Center is as accurate and uncontaminated as possible because of the care that they take when working. The data provides an excellent basis for publications. However, the labor that went into creating that data is hidden in the final publication.\nThis obscuration of labor says a lot about what kind of labor academia values. Spoiler alert: it’s not “grunt” work. Instead, it values high level thinking. This ignores that the “grunt” work also requires expertise and is vital to the research that professors do. As an undergraduate researcher who gets to be first author but also is doing the “grunt” work, it is easy to see this discrepancy. I do actively benefit from this hierarchy in many ways because of my educational and career trajectory, but it appears that the more one benefits, the harder it is to notice. This is partially because the people who benefit most often don’t do much lab work.\n…I will add more as I get permission from former students."
+  },
+  {
+    "objectID": "slides/Day11-Infrastructure.html#relationality-of-infrastructure",
+    "href": "slides/Day11-Infrastructure.html#relationality-of-infrastructure",
+    "title": "Day Eleven: Ethnographies of Infrastructure",
+    "section": "Relationality of Infrastructure",
+    "text": "Relationality of Infrastructure\n\ninfrastructue is a fundamentally relational concept, becoming real infrastructure in relation to organized practice.\n\n\nOften we think of infrastructure as “just there”\nAssumes that infrastructure is the same thing for all people all of the time\nViewing infrastructure as “relational” acknowledges that certain things become infrastructure to different people in different moments\nNot so much “what is infrastructure” but “when is infrastructure”"
+  },
+  {
+    "objectID": "slides/Day11-Infrastructure.html#master-narratives",
+    "href": "slides/Day11-Infrastructure.html#master-narratives",
+    "title": "Day Eleven: Ethnographies of Infrastructure",
+    "section": "Master Narratives",
+    "text": "Master Narratives\n\nSingular voice designed into infrastructures that do not attend to diversity\nAssumed to speak for everyone\nIdentifying involves asking: what has been made other by the design of this infrastructure?"
+  },
+  {
+    "objectID": "slides/Day11-Infrastructure.html#invisible-work",
+    "href": "slides/Day11-Infrastructure.html#invisible-work",
+    "title": "Day Eleven: Ethnographies of Infrastructure",
+    "section": "Invisible Work",
+    "text": "Invisible Work\n\nWork that fades into the background when presenting an infrastructure\nSometimes invisible because that work is “tacit” or rote\nSometimes structurally hidden from view\nIdentifying involves asking: what forms of labor tend to go unrecognized when looking at this infrastructure"
+  },
+  {
+    "objectID": "slides/Day11-Infrastructure.html#bringing-an-ethnographic-sensibility-to-archives",
+    "href": "slides/Day11-Infrastructure.html#bringing-an-ethnographic-sensibility-to-archives",
+    "title": "Day Eleven: Ethnographies of Infrastructure",
+    "section": "Bringing an Ethnographic Sensibility to Archives",
+    "text": "Bringing an Ethnographic Sensibility to Archives\n\nSwitch slide deck if there is time…"
   }
 ]

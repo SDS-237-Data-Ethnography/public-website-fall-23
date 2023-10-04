@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -31,11 +31,13 @@ options(htmltools.dir.version = FALSE)
 
 
 
-## Identify something that meets Star's definition of an infrastructure. Jot down some ideas about how/when this infrastructure has broken down.
+# Select a favorite dataset. Brainstorm a long list of infrastructures that support that dataset. 
 
 ---
 
 ## Turn to your neighbor and discuss:
+
+Pick one supporting infrastructure: 
 
 - How often do you think about this infrastructure? Did you notice it pre-breakdown?
 - Who has a say in the design of this infrastructure, and who is excluded?
@@ -43,6 +45,21 @@ options(htmltools.dir.version = FALSE)
 ---
 
 # Why does Star consider infrastructure *relational*?
+
+---
+
+## Relationality of Infrastructure
+
+> infrastructue is a fundamentally relational concept, becoming real infrastructure in relation to organized practice.
+
+- Often we think of infrastructure as "just there"
+- Assumes that infrastructure is the same thing for all people all of the time
+- Viewing infrastructure as "relational" acknowledges that certain things *become* infrastructure to different people in different moments
+- Not so much "what is infrastructure" but "when is infrastructure"
+
+---
+
+# Select one infratucture. How relational? How does it meet the other criteria of infrastructure?
 
 ---
 
@@ -58,10 +75,28 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-# Select a favorite dataset. Brainstorm a long list of infrastructures that support that dataset. 
+## Master Narratives
+
+- Singular voice designed into infrastructures that do not attend to diversity
+- Assumed to speak for everyone
+- Identifying involves asking: what has been made other by the design of this infrastructure?
 
 ---
 
-# Select one infratucture? How relational? How does it meet the other criteria of infrastructure?
+## Invisible Work
+
+- Work that fades into the background when presenting an infrastructure
+- Sometimes invisible because that work is "tacit" or rote
+- Sometimes structurally hidden from view
+- Identifying involves asking: what forms of labor tend to go unrecognized when looking at this infrastructure
+
+---
+
+## Bringing an Ethnographic Sensibility to Archives
+
+> Switch slide deck if there is time...
+
+---
+
 
 
