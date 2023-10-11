@@ -18,6 +18,9 @@ Instructions for the field note assignment can be found [here](https://github.co
 
 Instructions for the mini-projects can be found [here](https://github.com/SDS-237-Data-Ethnography/portfolio/tree/main/mini-projects).
 
+- Perusall Overview is [here](https://app.perusall.com/courses/sds237-01-data-ethnography-956379999/video1488375611-147384781?assignmentId=eoKuD4XCSJwRBMdPi&part=1).
+- Memo template is [here](https://docs.google.com/document/d/1sajXtloivgvp7OPlYdS8kiZaIKlfBoTxF4lhjVbEqyQ/edit?usp=sharing)
+- Example Mini-Project 1 are [here](https://moodle.smith.edu/mod/resource/view.php?id=1103595)
 
 ## Final Project
 

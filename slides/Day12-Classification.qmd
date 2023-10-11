@@ -29,9 +29,6 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
-# What were some of the takeaways from Thursday?
-
----
 
 ## Identify a classification system that structures some aspect of your "work". How are concepts organized in this classification system?
 
@@ -40,5 +37,55 @@ options(htmltools.dir.version = FALSE)
 ## Turn to your neighbor and discuss:
 
 - What is the master narrative running through this classification system?
+
+---
+
+# What were some of the takeaways from Thursday?
+
+---
+
+# In what ways are classification systems examples of "infrastructure" according to Star?
+
+---
+
+## Datasets that rely on the ICD
+
+- Navigate to [data.gov](data.gov) and search for "ICD"
+- How do these datasets rely on the ICD?
+
+---
+
+# Reading Discussion
+
+---
+
+# What is the <ins>master narrative</ins> of the ICD?
+
+---
+
+# What <ins>invisible work</ins> shapes the ICD?
+
+---
+
+# How can we study the ICD?
+
+---
+
+# sameAs
+
+---
+
+# Archives of U.S. Federal Racial/Ethnic Classifications
+
+---
+
+## Mini-Project 1
+
+- Due October 26 (in 2 weeks)
+- Choice between a discourse analysis or a cultural analysis of infrastructure
+- Both involve practicing the **methods** we have discussed in class
+- Both involve producing an **argument** from ethnographic evidence
+- Argument should be *descriptive*, not of *value* or *policy*
+- Video describing both projects in depth is available on Perusall
 
 
