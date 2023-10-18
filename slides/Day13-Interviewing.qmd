@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -30,14 +30,17 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
-## Reminders
+# You are scheduled to interview an AI "ghost worker." What is one question you might ask them to deepen understanding of the social configurations of their work?
 
-- First MP due Thursday
-  - Today is the last day to request an extension
-  - Video instructions in Perusall
-  - Exemplary MPs in Slack
-- Reading for Thursday is *optional* (We won't have time to discuss it in class)
+---
 
+## Turn to a neighbor and discuss:
+
+- How would the response to this question deepen understanding of the cultural underpinnings of a data infrastructure?
+
+---
+
+# Reading Discussion
 
 ---
 
