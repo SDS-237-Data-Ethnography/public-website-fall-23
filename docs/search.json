@@ -1691,7 +1691,7 @@
     "href": "schedule.html#october-24-2023",
     "title": "Schedule",
     "section": "October 24, 2023",
-    "text": "October 24, 2023\n\nSocial Constructions of Expertise in Data Work\nINTERVIEWING INTERPRETING CULTURAL MEANING LABOR\n\nDue TodayFurther Resources\n\n\n Chapter 2 , Biruk, Cal (2018). Cooking Data: Culture and Politics in an African Research World. Illustrated edition. Durham: Duke University Press Books. ISBN: 978-0-8223-7074-1. Read in Perusall\n Work on stakeholder analysis\n Continue working on Mini-Project 1\n\n\n Gieryn, Thomas F. (1999). Cultural Boundaries of Science: Credibility on the Line. En. University of Chicago Press. ISBN: 978-0-226-29261-8."
+    "text": "October 24, 2023\n\nSocial Constructions of Expertise in Data Work\nINTERVIEWING INTERPRETING CULTURAL MEANING LABOR\n\nDue TodayFurther Resources\n\n\n Chapter 2 , Biruk, Cal (2018). Cooking Data: Culture and Politics in an African Research World. Illustrated edition. Durham: Duke University Press Books. ISBN: 978-0-8223-7074-1. Read in Perusall\n Work on stakeholder analysis\n Continue working on Mini-Project 1\n\n\n Course slides are here\n Gieryn, Thomas F. (1999). Cultural Boundaries of Science: Credibility on the Line. En. University of Chicago Press. ISBN: 978-0-226-29261-8."
   },
   {
     "objectID": "schedule.html#october-26-2023",
@@ -1944,5 +1944,33 @@
     "title": "Day Thirteen: Labor and Interviewing",
     "section": "Turn to a neighbor and discuss:",
     "text": "Turn to a neighbor and discuss:\n\nHow would the response to this question deepen understanding of the cultural underpinnings of a data infrastructure?"
+  },
+  {
+    "objectID": "slides/Day14-Expertise.html#draw-a-map-of-data-science---sort-of-like-you-would-draw-a-map-of-the-world.-whats-at-the-center-of-your-map-what-features-are-at-the-periphery-where-are-the-mountains-rivers-centers-forbidden-areas",
+    "href": "slides/Day14-Expertise.html#draw-a-map-of-data-science---sort-of-like-you-would-draw-a-map-of-the-world.-whats-at-the-center-of-your-map-what-features-are-at-the-periphery-where-are-the-mountains-rivers-centers-forbidden-areas",
+    "title": "Day Fourteen: Expertise",
+    "section": "Draw a “map of data science” - sort of like you would draw a map of the world. What’s at the center of your map? What features are at the periphery? Where are the mountains? Rivers? Centers? Forbidden areas?",
+    "text": "Draw a “map of data science” - sort of like you would draw a map of the world. What’s at the center of your map? What features are at the periphery? Where are the mountains? Rivers? Centers? Forbidden areas?"
+  },
+  {
+    "objectID": "slides/Day14-Expertise.html#turn-to-a-neighbor-and-discuss",
+    "href": "slides/Day14-Expertise.html#turn-to-a-neighbor-and-discuss",
+    "title": "Day Fourteen: Expertise",
+    "section": "Turn to a neighbor and discuss:",
+    "text": "Turn to a neighbor and discuss:\n\nHow does your map reflect certain assumptions of what counts as data science vs. non-data-science?"
+  },
+  {
+    "objectID": "slides/Day14-Expertise.html#boundary-work",
+    "href": "slides/Day14-Expertise.html#boundary-work",
+    "title": "Day Fourteen: Expertise",
+    "section": "Boundary Work",
+    "text": "Boundary Work\n\nExamines the work that society does to set the boundaries of science vs. non-science\nAcknowledges that differently situated people have different ways of justifying what makes something scientific vs. non-scientific\nHelps establish science’s epistemic authority through credibility contests and cartographic contrast"
+  },
+  {
+    "objectID": "slides/Day14-Expertise.html#examining-the-boundaries-of-data-science-expertise",
+    "href": "slides/Day14-Expertise.html#examining-the-boundaries-of-data-science-expertise",
+    "title": "Day Fourteen: Expertise",
+    "section": "Examining the Boundaries of Data Science Expertise",
+    "text": "Examining the Boundaries of Data Science Expertise\n\nWhat separates an expert from a non-expert?\nTraining? Credentials? Publications? The way they dress? The way they talk?\nCan you draw a distinguishing line around a data science expert?\nHow does this create barriers to participation?"
   }
 ]

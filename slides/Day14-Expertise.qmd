@@ -1,0 +1,72 @@
+---
+title: "Day Fourteen: Expertise"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Fall 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Draw a "map of data science" - sort of like you would draw a map of the world. What's at the center of your map? What features are at the periphery? Where are the mountains? Rivers? Centers? Forbidden areas?
+
+---
+
+## Turn to a neighbor and discuss:
+
+- How does your map reflect certain assumptions of what counts as data science vs. non-data-science?
+
+---
+
+# What were some of the key takeaways about interviewing from our last lecture?
+
+---
+
+# What makes something a science? Discuss with your table.
+
+---
+
+## Boundary Work
+
+- Examines the work that society does to set the boundaries of science vs. non-science
+- Acknowledges that differently situated people have different ways of justifying what makes something scientific vs. non-scientific
+- Helps establish science's epistemic authority through credibility contests and cartographic contrast
+
+---
+
+## Examining the Boundaries of Data Science Expertise
+
+- What separates an expert from a non-expert?
+- Training? Credentials? Publications? The way they dress? The way they talk? 
+- Can you draw a distinguishing line around a data science expert?
+- How does this create barriers to participation?
+
+---
+
+# Reading Discussion
+
+---
+
+# Interview with Professor Randi Garcia
