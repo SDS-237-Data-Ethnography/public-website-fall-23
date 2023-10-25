@@ -31,20 +31,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 
-## Jot down some ideas of what this means to you: 
-
-> This chapter makes one basic point: the work of producing, preserving, and sharing data reshapes the organizational, technological, and cultural worlds around them. - Jackson and Ribes, 2013
-
----
-
-## Reminders
-
-- Now is the time to start thinking about MP 2!
-- You must submit your MP 1 on Moodle by 5 PM tomorrow if you wish to participate in peer review. 
-
----
-
-# What did we learn on Tuesday about the why's and how's of participant observation?
+# What did we learn about in the last lecture regarding the why's and how's of participant observation?
 
 
 ---
@@ -61,31 +48,6 @@ options(htmltools.dir.version = FALSE)
 
 - How did the rituals we designed shape the data? How did we organize ourselves to create pathways for the data to be comparable? 
 
-
----
-
-## Reading Review: What are rituals?
-
-- Stylized repetitive activities engaged in different cultural contexts
-- May involve words, gestures, movements, exchanges
-- Can sometimes be taken-for-granted and other times front and center
-- **Mark the shared beliefs of a social group and membership in a community**
-
----
-
-# What are some examples of rituals in communities that you identify with?
-
----
-
-## Turn to a neighbor and discuss:
-
-- How might this ritual be taken for granted by different social groups?
-- What are some of the shared beliefs that shape the rationale for engaging this ritual?
-
----
-
-
-# What were the shared beliefs **about data** discussed in Tuesday's reading? What did data collectors care about?
 
 ---
 
@@ -125,8 +87,6 @@ options(htmltools.dir.version = FALSE)
 - This shapes the context of recorded data
 
 --- 
-
-> This chapter makes one basic point: the work of producing, preserving, and sharing data reshapes the organizational, technological, and cultural worlds around them. - Jackson and Ribes, 2013
 
 
 

@@ -32,17 +32,34 @@ options(htmltools.dir.version = FALSE)
 
 
 
-## Reminders
+## Jot down some ideas of what this means to you: 
 
-- Fieldnote 3 due Thursday
-- MP 2 due April 11
-- Now is the time to start thinking about an interview
-
+> This chapter makes one basic point: the work of producing, preserving, and sharing data reshapes the organizational, technological, and cultural worlds around them. - Jackson and Ribes, 2013
 
 ---
 
-## Think about a data collection practice that you are acquainted with. Identify one specific thing that people try to *always* do when collecting that data. 
+## Reading Review: What are rituals?
 
+- Stylized repetitive activities engaged in different cultural contexts
+- May involve words, gestures, movements, exchanges
+- Can sometimes be taken-for-granted and other times front and center
+- **Mark the shared beliefs of a social group and membership in a community**
+
+---
+
+# What are some examples of rituals in communities that you identify with?
+
+---
+
+## Turn to a neighbor and discuss:
+
+- How might this ritual be taken for granted by different social groups?
+- What are some of the shared beliefs that shape the rationale for engaging this ritual?
+
+---
+
+
+# What were the shared beliefs **about data** discussed in today's reading? What did data collectors care about?
 
 ---
 
@@ -116,7 +133,7 @@ options(htmltools.dir.version = FALSE)
 - Create maps and graphics to help you remember details
 
 
---
+---
 
 ## Expanding Field Notes
 
@@ -124,5 +141,8 @@ options(htmltools.dir.version = FALSE)
 - Convert your notes into a descriptive narrative
 - Layer interpretations of your observations
 
-  
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGX490kuKjg?si=GBC68YXOHOJYQQrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
