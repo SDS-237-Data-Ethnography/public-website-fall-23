@@ -30,6 +30,9 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
+# Think about a data collection activity you engage. What is something you try to *always* do when collecting that data?
+
+---
 
 # What did we learn about in the last lecture regarding the why's and how's of participant observation?
 
@@ -75,7 +78,7 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QeUbwr3-DCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bgjT0KxyaQ?si=Ce72cbrxQh5zqRrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
