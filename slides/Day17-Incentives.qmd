@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -36,10 +36,6 @@ options(htmltools.dir.version = FALSE)
 
 - If you have not started on MP2 yet, you are late in doing so. 
 - There is reading from *Cooking Data* due this Thursday. 
-
----
-
-# What were some takeaways from Thursday's class?
 
 ---
 
@@ -172,7 +168,7 @@ Notably, this idea of "juking the stats" has equivalent terms in other domains i
 
 ![](https://live.staticflickr.com/65535/50981967846_2335fd0062_5k.jpg)
 
-^Ivan Radic, on Flickr^
+^Ivan Radic, on Flickr^
 :::
 :::
 
@@ -193,7 +189,7 @@ In what follows, I will focus on three kinds of data quality concerns that arise
 :::
 
 ::: {.column width="70%"}
-![](img/hmda.png) ^Sample HMDA Data Collection Form^
+![](img/hmda.png) ^Sample HMDA Data Collection Form^
 :::
 :::
 
