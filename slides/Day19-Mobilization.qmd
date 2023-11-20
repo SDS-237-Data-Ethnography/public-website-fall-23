@@ -129,6 +129,12 @@ options(htmltools.dir.version = FALSE)
 
 # What story-telling elements bring the data in this ad to life?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDb7jJO_yyo?si=6co2WGr8g2nexbAe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+# What story-telling elements bring the data in this ad to life?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZUrrpq9p2U?si=uOXnnrFV5nXCfMva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ::: .notes
