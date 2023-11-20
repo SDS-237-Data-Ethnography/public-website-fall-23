@@ -1,5 +1,5 @@
 ---
-title: "Day Nineteen: Mobilizating Meaning"
+title: "Day Nineteen: Mobilizing Meaning"
 subtitle: "SDS 237: Data Ethnography"
 author: |
   Lindsay Poirier<br/>
@@ -31,27 +31,6 @@ options(htmltools.dir.version = FALSE)
 ```
 
 
-## Announcements
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-- Optional group work time with Rose on Thursday.
-- Don't forget to fill out the group evaluations. 
-- Additional enrichment option
-  - Attend this event and write 400-word memo analyzing the topic using one of the key concepts from data activism readings (Concept must be approved by me.)
-
-:::
-
-::: {.column width="50%"}
-
-![](img/ddp.png)
-:::
-:::
-
----
-
 ## What does the following statement mean to you?
 
 > On April 10, 2023 at 9AM Northampton’s reported AQI was 54.
@@ -65,37 +44,101 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-## What is 'evidence'?
+# Today's Topic: How do numbers acquire meaning? Through what means do we determine their significance?
 
-- Etymologically dual meaning:
-  - Transparent, obvious, clear, speaking for itself
-  - Appearance or indication, requiring interpretation
+---
+
+# Reading Discussion
+
+---
+
+## Some Terminology in Semiotics
+
+- Signifier: a material thing that signfies something else (e.g. a number, an word, an expression)
+- Signified: a concept that the signifier represents
+- Indexical: cases where the signifier is assumed to have a direct causal relationship with the signified
+  - e.g. My dog's tail wag signifies that she is happy.
+  - e.g. 5 signifies the number of fingers on my hand.
+- Symbolic: cases where is the signifier takes on meaning through culturally-specific interpretation of the signified  
+
+---
+
+## Framing Statistics: Comparison/Ranking
+
+- Is x more/less than y?
+  - e.g. "Women make 77 cents for every dollar a man makes."
+  - e.g. "The U.S. ranks first in firearm homicides in high income countries, with a rate of 4.52 firearm homicides per 100,000 population."
+
+---
+
+## Framing Statistics: Standards-setting/Benchmarking
+
+- Identifying the yardstick to indicate "good" or "healthy"
+  - e.g. "A credit score of 800 or above is 'excellent'."
+  - e.g. "An AQI of 202 is 'very unhealthy'."
   
-> Biruk, Cal. 2018. Cooking Data: Culture and Politics in an African Research World. Illustrated edition. Durham: Duke University Press Books.
+---
+
+## Free-writing: Consider a **numeric** metric you use to measure something about yourself. Pick something that has special meaning for you. Is there a number that you strive for? How do you know when your score is "good"?
 
 ---
 
-# How do numbers acquire meaning? Through what means do we determine their significance?
+## Principles for Active Listening
+
+1. Suspend judgment
+2. Be curious
+3. Halt internal commentary
+4. Listen with intention
+5. Express gratitude for sharing
 
 ---
 
-# Jot down a number that hold meaning to you and what it represents. 
+## Structured Story-tellling
+
+1. Find a partner, and decide who will speak first and who will speak second.
+2. Two minutes:
+  - First speaker: Provides uninterrupted narration about this measure. What does it mean to you? How did it come to have its meaning? How do you decide what success looks like?
+  - Second speaker: Listens with intention: What does this number mean to this person?
+3. One minute:
+  - Second speaker: Reflect back on what you heard/ask questions, etc. (e.g. "From what I understand...")
+  - First speaker: Affirm, correct, clarify, but also listen for what they heard
+4. Swap and repeat. 
+
+::: .notes
+
+- Through what mechanisms did people decide what was good?
+- Did you identify social structures at play in making this number meaningful?
+- Did you hear your partner talk about ways this number might mean different things to different people?
+
+:::
 
 ---
 
-## Turn to a neighbor and discuss:
+## Narrating Data
 
-- How do you know if this is a big or small quantity?
-- Do you have a yardstick to help you determine this?
-- How might this number mean different things to different social groups?
-
+- Curating plot details and trajectories 
+  - Choosing variables to report on
+  - Choosing how to sequence statistics
+- Engaging literary or rhetorical devices
+  - Techniques of communication designed to evoke a reaction from the listener
+- Identifying the sense-making tools
+  - Visuals
+  - Statistical terminology (e.g. "statistically significant")
+  
 ---
 
-## Interpretive Flexibility
+# What story-telling elements bring the data in this ad to life?
 
-- Anti-determinist frameworks
-- Refers to the differing meanings that social groups assign to technologies
-- Explain how technologies are "socially constructed"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZUrrpq9p2U?si=uOXnnrFV5nXCfMva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+::: .notes
+
+- Ad banned in 2023
+- Emphasized the renewables at the expense of high-carbon initiatives (which make up bulk of Shell production)
+- “We strongly disagree with the ASA’s decision, which could slow the UK’s drive towards renewable energy,” said a spokesperson for Shell. “People are already well aware that Shell produces the oil and gas they depend on today. When customers fill up at our petrol stations across the UK, it’s under the instantly recognisable Shell logo.”
+- “However, they [are] unlikely to be aware of the details of this in relation to specific companies,” the ASA said. “Ads [are] therefore likely to mislead consumers if they [have] misrepresented the contribution that lower-carbon initiatives played, or would play in the near future, as part of the overall balance of a company’s activities.”
+
+:::
 
 ---
 
@@ -107,26 +150,10 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-## Framing Statistics
-
-- Comparison/Ranking
-  - Is x more/less than y?
-- Standards-Setting/Benchmarking
-  - Does x meet z standard/benchmark?
-- Appealing to Emotion/Lived Experience
-  - How does x make me feel/relate to my life?
-
----
-
 > "The actual number of Americans jailed or imprisoned, about 2.3 million." - Matt Korostoff
 
 > [https://mkorostoff.github.io/incarceration-in-real-numbers/](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 
---- 
+---
 
-## Take-aways 
-
-1. The meaning/significance of numbers is not self-evident.
-2. Data becomes meaningful as stakeholders develop tools for narrating the significance of a number.
-3. Ethnographers can study these meaning-making practices.
-
+# Take-aways
