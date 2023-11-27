@@ -1,0 +1,165 @@
+---
+title: "Day Twenty: Mobilizing Meaning Otherwise"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Fall 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+## 
+
+
+---
+
+## Turn to a neighbor and discuss:
+
+
+
+---
+
+# What were some takeaways from last Tuesday?
+
+
+---
+
+## Mobilizing Data Narratives
+
+- Mobilization refers to the processes by which people prepare something to be put to use or into action
+- Stakeholders strategically engage in meaning-making activities around data
+- Shapes societal interpretations of data
+
+---
+
+## Narrating Data
+
+- Curating plot details and trajectories 
+  - Choosing variables to report on
+  - Choosing how to sequence statistics
+- Engaging literary or rhetorical devices
+  - Techniques of communication designed to evoke a reaction from the listener
+- Identifying the sense-making tools
+  - Visuals
+  - Statistical terminology (e.g. "statistically significant")
+  
+---
+
+![](img/med.png)
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaxlJXpwkzs?si=OeuEWfDtE7LiPCBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x8y58ThUrI?si=haNxx8O2vp1aL3q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcDrE5YvqTs?si=ev3nW9wdHu1kK41k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZUrrpq9p2U?si=uOXnnrFV5nXCfMva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+::: {.notes}
+
+- Ad banned in 2023
+- Emphasized the renewables at the expense of high-carbon initiatives (which make up bulk of Shell production)
+- “We strongly disagree with the ASA’s decision, which could slow the UK’s drive towards renewable energy,” said a spokesperson for Shell. “People are already well aware that Shell produces the oil and gas they depend on today. When customers fill up at our petrol stations across the UK, it’s under the instantly recognisable Shell logo.”
+- “However, they [are] unlikely to be aware of the details of this in relation to specific companies,” the ASA said. “Ads [are] therefore likely to mislead consumers if they [have] misrepresented the contribution that lower-carbon initiatives played, or would play in the near future, as part of the overall balance of a company’s activities.”
+
+:::
+
+
+---
+
+> "The actual number of Americans jailed or imprisoned, about 2.3 million." - Matt Korostoff
+
+> [https://mkorostoff.github.io/incarceration-in-real-numbers/](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+
+
+---
+
+# Reading Discussion
+
+---
+
+## What is an ethnographic argument?
+
+* Central theme derived from an ethnographic study
+* Identifies a certain cultural pattern or phenomena
+* Examples:
+  * How data is talked about
+  * The cultural assumptions underpinning a data infrastructure
+  * How labor is recognized in a data practice
+
+---
+
+## Writing an Ethnographic Argument
+
+* Paragraph 1: Introduction and thesis
+* Paragraph 2-x: Sub-arguments supporting thesis
+  * Presents evidence from data collection to support sub-argument
+* Paragraph Final: Summarize thesis and wrap-up
+
+---
+
+## What counts as evidence/data in ethnographic arguments?
+
+* Discourse Analysis/Interview
+  * Direct quotes and their context
+* Participant Observation
+  * Vignettes/thick description
+* Cultural Analysis of Infrastructure
+  * Material from secondary sources
+  * Facts about the infrastructure's historical development
+  * Descriptions of the organization of the infrastructure
+  
+---
+
+## Revision Expectations
+
+* Revision = re - vision = seeing again
+* Involves more than spelling and grammar fixes and word changes; editing is only one component of revision
+* Things to consider:
+  * Recognize and re-articulate the purpose
+  * Refine the focus (audience and presentation)
+  * Clarify the argument
+  * Strengthen and hone evidence
+
+> [https://writingcenter.unc.edu/tips-and-tools/revising-drafts/](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/ )
