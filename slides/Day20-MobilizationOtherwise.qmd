@@ -31,7 +31,6 @@ options(htmltools.dir.version = FALSE)
 ```
 
 
-
 # What were some takeaways from last Tuesday?
 
 
