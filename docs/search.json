@@ -1430,9 +1430,9 @@
   {
     "objectID": "slides/Day22-Credibility.html#turn-to-a-neighbor-and-discuss",
     "href": "slides/Day22-Credibility.html#turn-to-a-neighbor-and-discuss",
-    "title": "Day Twenty-Two: Credibility",
+    "title": "Day Twenty-One: Data Activism",
     "section": "Turn to a neighbor and discuss:",
-    "text": "Turn to a neighbor and discuss:\n\nWhy did you draw the map the way that you did?\nCan you think of stakeholders who might disagree with your map of science? Why?"
+    "text": "Turn to a neighbor and discuss:\n\nWhat do you suppose the designers of this system believe about the data it’s collecting?\nWhat would it look like to resist this system?"
   },
   {
     "objectID": "slides/Day22-Credibility.html#boundary-work",
@@ -1479,9 +1479,9 @@
   {
     "objectID": "slides/Day22-Credibility.html#social-movement-theory",
     "href": "slides/Day22-Credibility.html#social-movement-theory",
-    "title": "Day Twenty-Two: Credibility",
+    "title": "Day Twenty-One: Data Activism",
     "section": "Social Movement Theory",
-    "text": "Social Movement Theory\n\nSociological research that studies how social movements form, operate, sustain, and fizzle out\nPolitical Process Theory: suggests that certain political formations enable social movements to form and operate\nResource Mobilization Theory: suggests that access to certain resources enable social movements to mobilize\nFraming: Suggests that collective ideologies and values bring social movements into fruition"
+    "text": "Social Movement Theory\n\nSociological research that studies how social movements form, operate, sustain, and fizzle out\nPolitical Process Theory: suggests that certain political formations enable social movements to form and operate\n\nPolitical opportunities\nMobilizing structures\nFraming processes\nProtest cycles\nRepertoires of contention\n\nResource Mobilization Theory: suggests that the ability to leverage certain resources enable social movements to mobilize\n\nMaterials resources, human resources, organizational resources, cultural resources, etc."
   },
   {
     "objectID": "slides/Day23-Ignorance.html#feminist-arguments-on-the-study-of-ignorance",
@@ -2147,5 +2147,19 @@
     "title": "Day Twenty: Mobilizing Meaning Otherwise",
     "section": "Revision Expectations",
     "text": "Revision Expectations\n\nRevision = re - vision = seeing again\nInvolves more than spelling and grammar fixes and word changes; editing is only one component of revision\nThings to consider:\n\nRecognize and re-articulate the purpose\nRefine the focus (audience and presentation)\nClarify the argument\nStrengthen and hone evidence\n\n\n\nhttps://writingcenter.unc.edu/tips-and-tools/revising-drafts/"
+  },
+  {
+    "objectID": "slides/Day22-Credibility.html#consider-a-time-when-you-felt-surveiled-misrespresented-or-under-represented-by-a-data-system.-how-did-you-respond",
+    "href": "slides/Day22-Credibility.html#consider-a-time-when-you-felt-surveiled-misrespresented-or-under-represented-by-a-data-system.-how-did-you-respond",
+    "title": "Day Twenty-One: Data Activism",
+    "section": "Consider a time when you felt surveiled, misrespresented, or under-represented by a data system. How did you respond?",
+    "text": "Consider a time when you felt surveiled, misrespresented, or under-represented by a data system. How did you respond?"
+  },
+  {
+    "objectID": "slides/Day22-Credibility.html#data-activism",
+    "href": "slides/Day22-Credibility.html#data-activism",
+    "title": "Day Twenty-One: Data Activism",
+    "section": "Data Activism",
+    "text": "Data Activism\n\nA range of practices that confront the politics of datafication\nMay involve affirmative data action\nMay involve resistance to data systems"
   }
 ]

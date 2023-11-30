@@ -1,5 +1,5 @@
 ---
-title: "Day Twenty-Two: Credibility"
+title: "Day Twenty-One: Data Activism"
 subtitle: "SDS 237: Data Ethnography"
 author: |
   Lindsay Poirier<br/>
@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -31,101 +31,19 @@ options(htmltools.dir.version = FALSE)
 
 
 
-## Take out a sheet of paper and draw your "map of science". 
-
-1. What are the other features on the map? 
-2. What is central and what is in the periphery?
-3. Is there a place for art/religion?
+## Consider a time when you felt surveiled, misrespresented, or under-represented by a data system. How did you respond?
 
 ---
 
-## Turn to a neighbor and discuss:  
+## Turn to a neighbor and discuss:
 
-1. Why did you draw the map the way that you did?
-2. Can you think of stakeholders who might disagree with your map of science? Why?
-
----
-
-## Boundary Work
-
-- Thomas Gieryn, *Cultural Cartographies of Science*
-- Acknowledges the lack of stable criteria for demarcating science from non-science. 
-- Different people justify what makes something scientific vs unscientific differently.
-- As *credibility contests* emerge, people make claims based on their own maps of science.
-- Culturally chart the boundaries around what we consider scientific. 
+- What do you suppose the designers of this system believe about the data it's collecting?
+- What would it look like to resist this system?
 
 ---
 
-> Science is a symptom of the legitimate power to decide reality - its edges and contents disputed, moved all over the place, settled here and there as decisions about truthful and reliable claims are acted upon ...  (Gieryn, *Cultural Boundaries of Science*)
+# Reading Discussion
 
----
-
-## How do we draw the boundaries of credibility in data work? 
-
-> Who gets seen as a legitimate claims-maker in data science work, and whose voices are often denied a seat at the table?
-
----
-
-## Example: Lois Gibbs and Love Canal
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TSPA3LADFnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Deficit Model
-
-- Belief that the reason people distrust science is because they lack knowledge
-- Often casts scientific illiteracy as both a technical problem and a moral problem
-- Presumed solution to increasing public trust in science is to teach more science
-
-> STS rejects the deficit model…
-
-- Ignores public’s situated knowledge
-- Suggests knowledge is context-free
-- Doesn’t get at the root of distrust
-
-
----
-
-# How do we decide who is considered to have expertise?
-
----
-
-## Enactments of Expertise
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-- Expertise as a signal of authority
-- Enacted through credentialing, use of certain vocabularies, creation of exclusive social circles, clothing, norms of behavior
-- Enactments also serve a gate-keeping role in determining who gets to contribute to science/data science
-
-:::
-
-::: {.column width="50%"}
-
-In her history of the medical activism by the Black Panthers, Alondra Nelson discusses how one way the Black Panthers enacted their expertise was in their choice to wear white lab coats. 
-
-![](https://miro.medium.com/max/1400/1*nHGBZh5p8yNz7nAjTsvCew@2x.jpeg)
-> Sickle cell anemia testing. Oakland, Calif. 1972. credit NY Times
-
-
-
-:::
-:::
-
-
----
-
-## Citizen Science
-
-- Exclusionary science as a democratic problem
-- Examples of citizen engagement:
-  - Counting declining bird populations
-  - Air and water quality monitoring
-  - Writing health books for underrepresented populations
-- Must learn how to *enact* expertise to earn a seat at the table 
 
 ---
 
@@ -133,8 +51,40 @@ In her history of the medical activism by the Black Panthers, Alondra Nelson dis
 
 - Sociological research that studies how social movements form, operate, sustain, and fizzle out
 - Political Process Theory: suggests that certain political formations enable social movements to form and operate
-- Resource Mobilization Theory: suggests that access to certain resources enable social movements to mobilize
-- Framing: Suggests that collective ideologies and values bring social movements into fruition
+  - Political opportunities
+  - Mobilizing structures
+  - Framing processes
+  - Protest cycles
+  - Repertoires of contention
+- Resource Mobilization Theory: suggests that the ability to leverage certain resources enable social movements to mobilize
+  - Materials resources, human resources, organizational resources, cultural resources, etc.
 
+---
+
+## Data Activism
+
+- A range of practices that confront the politics of datafication
+- May involve affirmative data action
+- May involve resistance to data systems
+
+
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnIklqHkixE?si=k1r1tSLFlzC4xH7i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6kT34bh-k?si=3HDf42OaN90Og7Zv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMfPEbNBA-k?si=LeRCg754p-dlUdGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWhGp5WauY8?si=ebWMaQMaSfX99E8e&amp;start=492" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
