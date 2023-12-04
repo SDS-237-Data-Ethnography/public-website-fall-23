@@ -37,6 +37,16 @@ options(htmltools.dir.version = FALSE)
 
 [PollEv.com/lindsaysmith](PollEv.com/lindsaysmith)
 
+
+---
+
+## Ignorance Concept Map
+
+1. Select at least eight words from the cloud to write on sticky notes. 
+2. Organize these terms in a meaningful way on your orange paper. Feel free to draw lines between interconnected terms. 
+3. Identify three categories of ignorance represented on your map. Be sure to write them somewhere on the map. 
+4. Take a photo the finished map, and post it in the #random channel on Slack. 
+
 ---
 
 # Agnotology: the study of ignorance or doubt as invoked by various cultural forces
@@ -56,7 +66,6 @@ options(htmltools.dir.version = FALSE)
 ---
 
 # Ignorance as Virtue (a.k.a. barring unethical research)
-
 
 ---
 
