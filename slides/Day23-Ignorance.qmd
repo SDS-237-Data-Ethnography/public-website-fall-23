@@ -7,7 +7,7 @@ author: |
   [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
   </span>
 date: |
-  Spring 2023<br/>
+  Fall 2023<br/>
   `r sds::img_logo(width = 64)`
 format: 
   revealjs:
@@ -29,128 +29,42 @@ execute:
 options(htmltools.dir.version = FALSE)
 ```
 
+# Write a definition for the word 'ignorance' that might appear in a dictionary. (No looking it up!)
+
+---
+
+## Enter up to three words or (short) phrases that indicate what 'ignorance' is. 
+
+[PollEv.com/lindsaysmith](PollEv.com/lindsaysmith)
+
+---
 
 # Agnotology: the study of ignorance or doubt as invoked by various cultural forces
 
 ---
 
-## Feminist arguments on the study of ignorance
-
-1. Ignorance is more than a gap in knowledge. 
-2. "Ignorance, like knowledge, is situated." 
-
-> Tuana, Nancy. 2006. "The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance." *Hypatia* 21 (3): 1–19. https://doi.org/10.1111/j.1527-2001.2006.tb01110.x.
+# Ignorance as Resource (a.k.a. curiosity)
 
 ---
 
-## Taxonomy of Ignorance
-
-- Engineered Ignorance
-- Undone Science
-- Organized Ignorance
-- Loving Ignorance
+# Ignorance as Selective Choice (a.k.a. "undone science")
 
 ---
 
-# Engineered ignorance: Knowledge that gets deliberately hidden from the public
+# Ignorance as Active Construct (a.k.a. "disinformation")
 
 ---
 
-## Big Tobacco Hides Cancer Risks
-
-
-- Early 1950s, considerable expansion of research on tobacco health risks (e.g. lung cancer)
-- Tobacco industry seeks to produce knowledge that will undo effects of emerging research:
-  - Enlisted public relations firm Hill & Knowlton
-  - Determined that advertising won't work because self-interested by definition
-  - Sought out credentialed medical skeptics to engineer controversy
-  - Created Tobacco Industry Research Committee and funded research to sew doubt/uncertainty
-
+# Ignorance as Virtue (a.k.a. barring unethical research)
 
 
 ---
 
-:::: {.columns}
+## Scales of Data Knowledge Production
 
-::: {.column width="50%"}
-![](https://ibiome.files.wordpress.com/2009/12/d1aed-6a00d83453609069e20120a7481ab0970b-pi.jpg?w=233&zoom=2)
-
-:::
-
-::: {.column width="50%"}
-
-![](https://ibiome.files.wordpress.com/2009/12/926ab-6a00d83453609069e20128764b0e12970c-pi.jpg?w=343&zoom=2)
-
-:::
-:::
-
-
-
----
-
-## Merchants of Doubt
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8ii9zGFDtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-
-## Undone science: Areas of research that go unfunded, left incomplete, or get ignored
-
-> Frickel, Scott, Sahra Gibbon, Jeff Howard, Joanna Kempner, Gwen Ottinger, and David J. Hess. 2010. "Undone Science: Charting Social Movement and Civil Society Challenges to Research Agenda Setting." Science, Technology & Human Values 35 (4): 444–73. https://doi.org/10.1177/0162243909345836.
-
-
----
-
-## Medical Funding 
-
-- Nature reports that much medical funding goes to the "big three" - HIV/AIDS, malaria and tuberculosis
-- Funding diverted away from "neglected tropical diseases"
-  - Impact billions of people and disproportionately impact most vulnerable populations
-  - Examples: dengue, leprosy, trachoma
-- Covid-19 further diverted funding from these programs
-
----
-
-## Our Bodies Ourselves
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eeEa7qHtWOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-> Tuana, Nancy. 2006. "The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance." *Hypatia* 21 (3): 1–19. https://doi.org/10.1111/j.1527-2001.2006.tb01110.x.
-
----
-
-# Organized Ignorance: Knowledge that doesn’t get produced because of the way science is organized
-
-
-> Frickel, Scott, and M. Bess Vincent. 2007. "Hurricane Katrina, Contamination, and the Unintended Organization of Ignorance." Technology in Society, Perspectives on Hurricane Katrina, 29 (2): 181–88. https://doi.org/10.1016/j.techsoc.2007.01.007.
-
-
----
-
-## Environmental Testing following Hurricane Katrina
-
-- Only test contaminants designated by law (<200 of 8200 in TSCA) on public properties
-- Tend to test where there was flooding, not where there may be the most contaminants
-  - Most serious flooding escaped "sliver along the river" - location of the city's industrial corridor
-  - Untested areas include several brownfields and areas with history of manufacturing expansion
-  
----
-
-## Colony Collapse Disease
-
-- US beekeepers have lost almost 1/3 of bees every year since 2006
-- Scientific studies of insecticides on bees were designed to test the *individual lethal* effects of a chemical on a bee population
-  - Part of a "control-oriented" scientific culture
-- Failed to account for slow, cumulative effects over time and the interactions of chemicals and pathogens
-
-> Kleinman, Daniel Lee, and Sainath Suryanarayanan. 2013. "Dying Bees and the Social Production of Ignorance." Science, Technology & Human Values 38 (4): 492–517. https://doi.org/10.1177/0162243912442575.
-
-
----
-
-# Ignorance as humility, or loving ignorance
-
-
-
+- Epistemology
+- Infrastructure
+- Individual Labor
+- Collective Rituals
+- Institutions and Incentives
+- Advocacy, Activism, and Discourse
